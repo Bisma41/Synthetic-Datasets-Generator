@@ -1,0 +1,1001 @@
+ID,Title,Year,Authors,Region,Participants_Female,Participants_Male,Funding_Source,Research_Area,Trial_Outcome,Gender_Imbalance_Score
+1,Study on Genetics (2003),2004,Author19; Author65,Oceania,339,55,Private,Oncology,Success,284
+2,Study on Oncology (2023),2005,Author47; Author87,Asia,153,137,NGO,Cardiology,Neutral,16
+3,Study on Neurology (2007),2005,Author21; Author87,Oceania,118,90,Government,Genetics,Failure,28
+4,Study on Cardiology (2004),2022,Author39; Author100,North America,86,265,Government,Public Health,Neutral,179
+5,Study on Genetics (2003),2019,Author44; Author71,Europe,105,56,NGO,Public Health,Failure,49
+6,Study on Genetics (2023),2005,Author16; Author70,Asia,90,361,Government,Cardiology,Failure,271
+7,Study on Pharmacology (2002),2023,Author10; Author93,Europe,195,326,NGO,Cardiology,Neutral,131
+8,Study on Pharmacology (2013),2014,Author34; Author65,Oceania,318,183,Private,Genetics,Neutral,135
+9,Study on Oncology (2000),2001,Author27; Author70,Asia,377,486,NGO,Oncology,Failure,109
+10,Study on Oncology (2006),2013,Author18; Author54,South America,428,398,Private,Oncology,Success,30
+11,Study on Cardiology (2016),2011,Author36; Author88,Asia,70,330,NGO,Genetics,Failure,260
+12,Study on Pharmacology (2000),2021,Author48; Author62,Asia,348,40,Private,Neurology,Failure,308
+13,Study on Pharmacology (2006),2023,Author41; Author94,Asia,127,40,Private,Neurology,Failure,87
+14,Study on Genetics (2020),2007,Author28; Author86,Africa,222,192,NGO,Cardiology,Neutral,30
+15,Study on Genetics (2017),2014,Author32; Author54,Asia,425,340,NGO,Public Health,Neutral,85
+16,Study on Public Health (2007),2019,Author23; Author92,South America,179,88,NGO,Neurology,Failure,91
+17,Study on Public Health (2018),2009,Author43; Author75,North America,378,369,NGO,Neurology,Neutral,9
+18,Study on Neurology (2000),2023,Author34; Author71,South America,68,284,Private,Pharmacology,Neutral,216
+19,Study on Cardiology (2022),2014,Author45; Author77,North America,256,415,Government,Public Health,Success,159
+20,Study on Public Health (2010),2007,Author27; Author60,Oceania,355,64,NGO,Oncology,Success,291
+21,Study on Neurology (2004),2017,Author20; Author75,Africa,255,74,NGO,Oncology,Neutral,181
+22,Study on Cardiology (2010),2007,Author12; Author99,Africa,255,259,NGO,Genetics,Neutral,4
+23,Study on Oncology (2002),2009,Author35; Author81,Africa,117,129,NGO,Oncology,Neutral,12
+24,Study on Public Health (2003),2015,Author16; Author65,North America,312,172,Government,Pharmacology,Success,140
+25,Study on Neurology (2011),2006,Author20; Author96,South America,92,295,Government,Cardiology,Neutral,203
+26,Study on Pharmacology (2008),2011,Author10; Author80,Europe,341,413,NGO,Cardiology,Failure,72
+27,Study on Oncology (2023),2021,Author4; Author86,Africa,436,340,Government,Oncology,Success,96
+28,Study on Public Health (2017),2018,Author27; Author77,North America,220,397,Government,Public Health,Neutral,177
+29,Study on Oncology (2012),2014,Author36; Author84,Oceania,21,187,NGO,Pharmacology,Neutral,166
+30,Study on Oncology (2017),2014,Author9; Author75,South America,134,422,NGO,Oncology,Failure,288
+31,Study on Neurology (2020),2009,Author16; Author67,Africa,32,466,NGO,Oncology,Failure,434
+32,Study on Pharmacology (2011),2012,Author14; Author72,Asia,75,234,Government,Cardiology,Neutral,159
+33,Study on Pharmacology (2006),2016,Author42; Author56,South America,303,385,Private,Genetics,Neutral,82
+34,Study on Genetics (2002),2016,Author29; Author74,North America,313,108,NGO,Public Health,Neutral,205
+35,Study on Oncology (2021),2013,Author6; Author85,Europe,92,20,NGO,Pharmacology,Failure,72
+36,Study on Cardiology (2009),2005,Author47; Author63,Europe,78,362,Government,Pharmacology,Neutral,284
+37,Study on Oncology (2007),2006,Author4; Author68,Europe,332,203,NGO,Neurology,Neutral,129
+38,Study on Oncology (2012),2019,Author25; Author94,Asia,272,193,NGO,Public Health,Neutral,79
+39,Study on Neurology (2014),2004,Author39; Author89,South America,30,380,NGO,Cardiology,Success,350
+40,Study on Genetics (2011),2008,Author3; Author55,Africa,466,78,Government,Genetics,Neutral,388
+41,Study on Cardiology (2011),2001,Author13; Author99,South America,303,138,Government,Genetics,Success,165
+42,Study on Neurology (2006),2020,Author38; Author97,Europe,85,470,Private,Neurology,Failure,385
+43,Study on Genetics (2008),2015,Author43; Author86,Asia,38,30,NGO,Cardiology,Failure,8
+44,Study on Genetics (2021),2011,Author14; Author81,Oceania,95,258,Private,Oncology,Success,163
+45,Study on Genetics (2002),2017,Author14; Author72,Europe,142,371,NGO,Neurology,Success,229
+46,Study on Pharmacology (2020),2003,Author20; Author51,North America,482,234,Government,Cardiology,Success,248
+47,Study on Cardiology (2017),2022,Author14; Author63,South America,102,296,Private,Oncology,Neutral,194
+48,Study on Genetics (2007),2016,Author48; Author58,Asia,274,160,Private,Cardiology,Neutral,114
+49,Study on Cardiology (2014),2003,Author48; Author99,Oceania,500,287,Private,Genetics,Failure,213
+50,Study on Public Health (2008),2009,Author31; Author66,Europe,217,366,Private,Public Health,Failure,149
+51,Study on Genetics (2022),2002,Author45; Author89,Asia,316,260,Government,Cardiology,Failure,56
+52,Study on Pharmacology (2007),2005,Author46; Author64,Oceania,298,107,NGO,Public Health,Failure,191
+53,Study on Genetics (2010),2008,Author26; Author66,North America,336,300,Private,Cardiology,Success,36
+54,Study on Oncology (2007),2014,Author36; Author71,North America,19,105,NGO,Oncology,Neutral,86
+55,Study on Oncology (2010),2016,Author50; Author69,South America,459,288,Private,Public Health,Success,171
+56,Study on Public Health (2008),2004,Author25; Author80,Asia,378,188,NGO,Pharmacology,Failure,190
+57,Study on Oncology (2006),2013,Author35; Author92,Europe,382,175,Government,Public Health,Failure,207
+58,Study on Pharmacology (2022),2002,Author23; Author70,Europe,348,384,Government,Oncology,Failure,36
+59,Study on Neurology (2006),2007,Author17; Author74,Africa,430,249,Private,Public Health,Neutral,181
+60,Study on Genetics (2015),2014,Author33; Author82,Europe,155,150,Government,Cardiology,Success,5
+61,Study on Public Health (2020),2011,Author30; Author57,South America,494,454,Government,Cardiology,Failure,40
+62,Study on Public Health (2004),2000,Author47; Author81,North America,53,435,NGO,Pharmacology,Neutral,382
+63,Study on Neurology (2004),2013,Author49; Author71,Europe,120,316,NGO,Public Health,Neutral,196
+64,Study on Cardiology (2023),2001,Author14; Author74,Africa,239,478,Private,Cardiology,Success,239
+65,Study on Pharmacology (2017),2012,Author21; Author77,South America,320,450,Private,Public Health,Failure,130
+66,Study on Neurology (2023),2016,Author3; Author87,Oceania,251,293,NGO,Neurology,Success,42
+67,Study on Pharmacology (2013),2011,Author15; Author98,South America,454,92,Private,Cardiology,Success,362
+68,Study on Pharmacology (2012),2007,Author10; Author52,South America,256,45,NGO,Public Health,Success,211
+69,Study on Neurology (2007),2012,Author17; Author86,South America,97,281,Government,Genetics,Success,184
+70,Study on Cardiology (2016),2002,Author38; Author88,South America,122,89,Government,Cardiology,Success,33
+71,Study on Public Health (2002),2011,Author47; Author77,South America,435,240,Private,Genetics,Success,195
+72,Study on Oncology (2003),2007,Author19; Author60,North America,220,161,Government,Neurology,Failure,59
+73,Study on Cardiology (2020),2000,Author13; Author72,North America,317,429,Government,Neurology,Failure,112
+74,Study on Cardiology (2021),2010,Author15; Author75,Africa,83,144,NGO,Cardiology,Failure,61
+75,Study on Public Health (2019),2003,Author37; Author66,Europe,416,287,NGO,Neurology,Neutral,129
+76,Study on Oncology (2012),2022,Author32; Author86,Oceania,308,197,Government,Cardiology,Failure,111
+77,Study on Public Health (2019),2020,Author42; Author94,Asia,430,242,Private,Oncology,Failure,188
+78,Study on Public Health (2016),2010,Author22; Author67,North America,402,10,Private,Genetics,Neutral,392
+79,Study on Neurology (2017),2004,Author49; Author82,Asia,103,407,NGO,Pharmacology,Success,304
+80,Study on Oncology (2021),2004,Author47; Author92,Africa,329,336,Government,Oncology,Success,7
+81,Study on Genetics (2003),2001,Author48; Author82,Europe,347,269,Government,Neurology,Success,78
+82,Study on Genetics (2017),2009,Author30; Author61,North America,271,204,Government,Cardiology,Failure,67
+83,Study on Neurology (2020),2015,Author47; Author73,Oceania,145,385,NGO,Oncology,Success,240
+84,Study on Neurology (2003),2022,Author11; Author59,North America,95,104,NGO,Public Health,Success,9
+85,Study on Neurology (2013),2004,Author47; Author85,Oceania,380,462,NGO,Public Health,Failure,82
+86,Study on Cardiology (2014),2022,Author32; Author62,Oceania,361,19,Private,Public Health,Failure,342
+87,Study on Oncology (2023),2015,Author35; Author92,Europe,185,327,Private,Cardiology,Neutral,142
+88,Study on Genetics (2008),2014,Author4; Author84,Europe,482,448,Private,Neurology,Neutral,34
+89,Study on Pharmacology (2005),2019,Author3; Author55,Oceania,242,196,Government,Cardiology,Success,46
+90,Study on Pharmacology (2003),2000,Author43; Author54,Asia,315,407,Government,Neurology,Neutral,92
+91,Study on Genetics (2009),2002,Author49; Author51,Asia,312,327,NGO,Pharmacology,Success,15
+92,Study on Genetics (2016),2000,Author27; Author59,Europe,45,132,Government,Cardiology,Neutral,87
+93,Study on Pharmacology (2006),2008,Author41; Author65,North America,127,174,Government,Genetics,Failure,47
+94,Study on Cardiology (2011),2006,Author5; Author96,South America,203,379,Private,Pharmacology,Success,176
+95,Study on Cardiology (2017),2004,Author10; Author51,Africa,207,42,NGO,Cardiology,Success,165
+96,Study on Pharmacology (2000),2017,Author14; Author83,Africa,77,347,Private,Pharmacology,Success,270
+97,Study on Pharmacology (2010),2023,Author30; Author74,Asia,65,285,Government,Pharmacology,Failure,220
+98,Study on Public Health (2000),2019,Author4; Author90,Europe,18,429,Private,Cardiology,Neutral,411
+99,Study on Oncology (2011),2016,Author41; Author93,North America,113,208,NGO,Oncology,Failure,95
+100,Study on Neurology (2007),2013,Author40; Author81,North America,277,107,Government,Public Health,Success,170
+101,Study on Oncology (2007),2003,Author43; Author82,Asia,450,278,NGO,Pharmacology,Failure,172
+102,Study on Pharmacology (2002),2009,Author2; Author51,Asia,475,359,Government,Public Health,Failure,116
+103,Study on Oncology (2023),2007,Author35; Author86,South America,268,264,Government,Cardiology,Neutral,4
+104,Study on Public Health (2002),2009,Author27; Author51,Oceania,360,402,Government,Pharmacology,Neutral,42
+105,Study on Pharmacology (2004),2003,Author2; Author84,Africa,224,292,NGO,Public Health,Success,68
+106,Study on Cardiology (2021),2001,Author47; Author68,Africa,433,88,Private,Public Health,Failure,345
+107,Study on Public Health (2017),2007,Author35; Author69,Africa,86,323,NGO,Neurology,Neutral,237
+108,Study on Cardiology (2008),2013,Author2; Author83,Asia,320,154,Government,Oncology,Success,166
+109,Study on Pharmacology (2019),2020,Author45; Author94,South America,59,175,NGO,Genetics,Success,116
+110,Study on Public Health (2006),2019,Author28; Author62,Oceania,100,219,NGO,Public Health,Success,119
+111,Study on Pharmacology (2023),2014,Author7; Author57,Europe,253,338,NGO,Genetics,Neutral,85
+112,Study on Genetics (2006),2002,Author34; Author60,Asia,471,174,Government,Cardiology,Neutral,297
+113,Study on Genetics (2009),2003,Author16; Author63,South America,324,66,NGO,Cardiology,Neutral,258
+114,Study on Public Health (2021),2015,Author40; Author84,Asia,317,59,NGO,Neurology,Success,258
+115,Study on Genetics (2011),2019,Author17; Author73,Europe,29,277,Private,Public Health,Neutral,248
+116,Study on Public Health (2016),2017,Author18; Author76,Europe,459,347,Private,Pharmacology,Neutral,112
+117,Study on Public Health (2003),2000,Author6; Author74,South America,411,44,NGO,Cardiology,Neutral,367
+118,Study on Cardiology (2007),2020,Author26; Author80,North America,282,32,NGO,Pharmacology,Neutral,250
+119,Study on Oncology (2010),2016,Author37; Author66,Europe,267,437,Government,Cardiology,Failure,170
+120,Study on Oncology (2018),2018,Author45; Author65,Europe,395,490,Government,Pharmacology,Failure,95
+121,Study on Pharmacology (2007),2007,Author20; Author94,Oceania,70,76,Private,Oncology,Success,6
+122,Study on Pharmacology (2007),2022,Author6; Author92,Europe,57,101,Private,Public Health,Success,44
+123,Study on Oncology (2002),2004,Author42; Author99,Europe,256,457,Government,Oncology,Neutral,201
+124,Study on Genetics (2020),2009,Author3; Author56,Oceania,347,26,Private,Oncology,Success,321
+125,Study on Oncology (2007),2013,Author26; Author75,North America,76,113,Government,Public Health,Failure,37
+126,Study on Oncology (2001),2000,Author25; Author86,Africa,471,64,Government,Genetics,Failure,407
+127,Study on Neurology (2002),2019,Author31; Author54,Africa,318,258,NGO,Pharmacology,Neutral,60
+128,Study on Pharmacology (2007),2011,Author41; Author51,Europe,286,108,NGO,Oncology,Neutral,178
+129,Study on Neurology (2021),2007,Author45; Author61,North America,433,60,Private,Public Health,Failure,373
+130,Study on Public Health (2006),2018,Author6; Author82,Asia,10,26,NGO,Pharmacology,Neutral,16
+131,Study on Pharmacology (2004),2013,Author28; Author92,Oceania,469,302,NGO,Public Health,Neutral,167
+132,Study on Genetics (2018),2005,Author22; Author87,Oceania,490,338,Government,Public Health,Success,152
+133,Study on Pharmacology (2015),2021,Author7; Author84,North America,406,438,Private,Genetics,Failure,32
+134,Study on Cardiology (2015),2021,Author3; Author65,South America,357,208,NGO,Oncology,Success,149
+135,Study on Public Health (2006),2002,Author14; Author95,Oceania,342,346,Private,Public Health,Success,4
+136,Study on Oncology (2003),2016,Author37; Author81,Asia,230,260,Government,Public Health,Success,30
+137,Study on Genetics (2013),2011,Author18; Author53,Africa,277,279,NGO,Cardiology,Success,2
+138,Study on Neurology (2013),2002,Author5; Author94,Africa,225,329,Government,Oncology,Success,104
+139,Study on Public Health (2014),2016,Author18; Author85,North America,199,369,NGO,Pharmacology,Failure,170
+140,Study on Genetics (2001),2017,Author37; Author93,Africa,457,312,Private,Oncology,Failure,145
+141,Study on Genetics (2020),2016,Author3; Author62,North America,32,141,Government,Genetics,Failure,109
+142,Study on Genetics (2003),2016,Author21; Author52,Oceania,367,35,Government,Genetics,Failure,332
+143,Study on Oncology (2012),2017,Author14; Author88,North America,281,197,Private,Public Health,Neutral,84
+144,Study on Genetics (2010),2000,Author10; Author99,Oceania,229,123,Government,Cardiology,Success,106
+145,Study on Oncology (2007),2012,Author46; Author76,North America,127,320,Private,Cardiology,Failure,193
+146,Study on Cardiology (2006),2015,Author5; Author70,North America,490,377,Government,Neurology,Neutral,113
+147,Study on Pharmacology (2014),2001,Author11; Author87,Oceania,420,46,Government,Neurology,Failure,374
+148,Study on Cardiology (2013),2020,Author16; Author87,North America,256,16,Government,Cardiology,Neutral,240
+149,Study on Cardiology (2008),2012,Author25; Author94,South America,414,486,Private,Genetics,Success,72
+150,Study on Public Health (2007),2011,Author35; Author72,South America,403,481,NGO,Oncology,Failure,78
+151,Study on Oncology (2014),2008,Author25; Author99,South America,205,116,Government,Oncology,Neutral,89
+152,Study on Pharmacology (2003),2023,Author48; Author59,North America,189,345,Private,Public Health,Failure,156
+153,Study on Oncology (2020),2000,Author45; Author97,Africa,311,261,Private,Genetics,Failure,50
+154,Study on Pharmacology (2000),2011,Author6; Author83,Asia,421,485,Government,Neurology,Neutral,64
+155,Study on Oncology (2007),2002,Author48; Author73,South America,389,465,Private,Cardiology,Success,76
+156,Study on Cardiology (2013),2011,Author4; Author57,Oceania,474,436,Private,Genetics,Failure,38
+157,Study on Public Health (2015),2007,Author28; Author65,Europe,399,50,Private,Public Health,Success,349
+158,Study on Cardiology (2012),2023,Author5; Author72,Europe,438,249,Government,Pharmacology,Failure,189
+159,Study on Oncology (2005),2021,Author39; Author100,Oceania,366,420,NGO,Genetics,Failure,54
+160,Study on Public Health (2000),2020,Author40; Author89,Oceania,304,337,Private,Pharmacology,Neutral,33
+161,Study on Public Health (2008),2003,Author26; Author100,Oceania,60,41,Government,Oncology,Failure,19
+162,Study on Public Health (2009),2018,Author21; Author52,North America,227,194,NGO,Public Health,Failure,33
+163,Study on Public Health (2022),2023,Author41; Author68,Asia,78,295,Private,Public Health,Success,217
+164,Study on Genetics (2017),2010,Author29; Author82,South America,140,390,Private,Cardiology,Neutral,250
+165,Study on Genetics (2022),2004,Author15; Author73,Oceania,254,490,Government,Genetics,Neutral,236
+166,Study on Public Health (2004),2001,Author36; Author75,North America,402,465,Government,Public Health,Success,63
+167,Study on Cardiology (2009),2011,Author28; Author62,Oceania,129,222,NGO,Cardiology,Neutral,93
+168,Study on Cardiology (2001),2017,Author44; Author88,Africa,475,430,NGO,Neurology,Neutral,45
+169,Study on Pharmacology (2023),2010,Author43; Author75,Asia,449,198,Government,Genetics,Success,251
+170,Study on Pharmacology (2001),2020,Author6; Author100,Africa,52,416,Government,Public Health,Neutral,364
+171,Study on Genetics (2010),2005,Author40; Author69,Africa,155,372,Private,Genetics,Neutral,217
+172,Study on Oncology (2001),2021,Author16; Author96,Oceania,316,39,Private,Genetics,Success,277
+173,Study on Pharmacology (2015),2014,Author5; Author56,Europe,458,431,NGO,Oncology,Failure,27
+174,Study on Pharmacology (2016),2022,Author18; Author60,South America,288,325,NGO,Genetics,Neutral,37
+175,Study on Cardiology (2001),2015,Author25; Author96,North America,219,146,Private,Oncology,Failure,73
+176,Study on Pharmacology (2002),2020,Author41; Author60,Africa,141,280,Private,Public Health,Failure,139
+177,Study on Cardiology (2002),2005,Author48; Author75,Oceania,106,30,NGO,Genetics,Neutral,76
+178,Study on Pharmacology (2002),2004,Author21; Author74,Africa,12,385,Private,Neurology,Neutral,373
+179,Study on Genetics (2007),2002,Author7; Author56,North America,373,46,Government,Pharmacology,Failure,327
+180,Study on Public Health (2003),2022,Author1; Author70,Asia,390,437,Government,Oncology,Neutral,47
+181,Study on Pharmacology (2007),2014,Author29; Author74,North America,414,165,NGO,Neurology,Success,249
+182,Study on Pharmacology (2019),2001,Author49; Author68,North America,13,49,NGO,Public Health,Neutral,36
+183,Study on Oncology (2019),2009,Author7; Author59,South America,305,493,Private,Neurology,Success,188
+184,Study on Oncology (2013),2006,Author6; Author62,Europe,277,120,Private,Genetics,Failure,157
+185,Study on Genetics (2018),2001,Author28; Author79,Africa,70,275,Government,Pharmacology,Failure,205
+186,Study on Pharmacology (2016),2006,Author36; Author86,Europe,276,59,Private,Pharmacology,Success,217
+187,Study on Neurology (2008),2001,Author33; Author77,Asia,13,61,NGO,Pharmacology,Failure,48
+188,Study on Cardiology (2021),2010,Author7; Author52,Africa,202,381,NGO,Cardiology,Failure,179
+189,Study on Genetics (2010),2009,Author6; Author73,Europe,345,128,Private,Genetics,Failure,217
+190,Study on Cardiology (2008),2016,Author36; Author56,Asia,115,282,Government,Oncology,Success,167
+191,Study on Public Health (2004),2012,Author39; Author89,Oceania,362,207,Government,Pharmacology,Success,155
+192,Study on Genetics (2020),2017,Author21; Author75,South America,421,107,Private,Neurology,Failure,314
+193,Study on Neurology (2014),2015,Author1; Author69,Asia,171,108,Private,Genetics,Success,63
+194,Study on Neurology (2002),2008,Author27; Author75,Europe,219,279,NGO,Oncology,Success,60
+195,Study on Oncology (2014),2001,Author50; Author56,North America,195,346,NGO,Pharmacology,Failure,151
+196,Study on Pharmacology (2018),2020,Author47; Author86,Africa,64,137,NGO,Genetics,Neutral,73
+197,Study on Oncology (2002),2006,Author16; Author87,South America,89,301,Government,Neurology,Failure,212
+198,Study on Pharmacology (2006),2009,Author34; Author61,Europe,228,330,Private,Oncology,Neutral,102
+199,Study on Pharmacology (2008),2011,Author44; Author75,Oceania,343,495,NGO,Oncology,Failure,152
+200,Study on Cardiology (2011),2001,Author11; Author59,South America,309,101,Government,Public Health,Success,208
+201,Study on Oncology (2007),2020,Author18; Author70,Asia,139,295,NGO,Neurology,Failure,156
+202,Study on Neurology (2009),2010,Author18; Author82,Europe,143,393,Private,Public Health,Success,250
+203,Study on Cardiology (2014),2008,Author10; Author55,North America,447,295,Government,Pharmacology,Failure,152
+204,Study on Pharmacology (2022),2003,Author11; Author78,North America,284,222,Private,Oncology,Failure,62
+205,Study on Neurology (2019),2011,Author18; Author77,Oceania,226,392,Private,Neurology,Neutral,166
+206,Study on Genetics (2016),2013,Author20; Author81,North America,299,64,Government,Neurology,Failure,235
+207,Study on Oncology (2021),2012,Author5; Author74,North America,197,402,Government,Cardiology,Failure,205
+208,Study on Pharmacology (2009),2023,Author17; Author66,Africa,323,336,NGO,Genetics,Neutral,13
+209,Study on Genetics (2003),2014,Author47; Author91,Oceania,151,305,Government,Pharmacology,Failure,154
+210,Study on Cardiology (2008),2012,Author32; Author89,South America,358,193,Government,Genetics,Success,165
+211,Study on Oncology (2003),2010,Author40; Author63,Europe,213,355,NGO,Oncology,Success,142
+212,Study on Genetics (2017),2005,Author30; Author57,North America,396,244,Private,Pharmacology,Neutral,152
+213,Study on Cardiology (2008),2015,Author9; Author70,Africa,114,369,Government,Genetics,Failure,255
+214,Study on Neurology (2019),2022,Author1; Author76,North America,221,350,Private,Cardiology,Neutral,129
+215,Study on Cardiology (2022),2015,Author22; Author90,Oceania,292,228,Private,Cardiology,Success,64
+216,Study on Neurology (2006),2011,Author25; Author72,Oceania,411,462,Government,Neurology,Failure,51
+217,Study on Genetics (2020),2016,Author29; Author72,North America,295,63,Private,Cardiology,Failure,232
+218,Study on Neurology (2016),2008,Author28; Author92,Asia,257,95,Private,Pharmacology,Neutral,162
+219,Study on Public Health (2008),2002,Author39; Author59,Oceania,101,415,NGO,Oncology,Neutral,314
+220,Study on Oncology (2002),2023,Author20; Author71,Europe,199,102,NGO,Genetics,Neutral,97
+221,Study on Genetics (2013),2013,Author39; Author95,South America,296,291,NGO,Public Health,Neutral,5
+222,Study on Neurology (2001),2002,Author13; Author81,Asia,294,215,Private,Genetics,Failure,79
+223,Study on Oncology (2010),2013,Author21; Author62,Asia,257,268,Private,Pharmacology,Failure,11
+224,Study on Cardiology (2020),2019,Author26; Author71,South America,139,182,NGO,Genetics,Neutral,43
+225,Study on Neurology (2005),2005,Author19; Author98,North America,167,346,Government,Cardiology,Success,179
+226,Study on Genetics (2014),2017,Author45; Author91,North America,305,90,NGO,Genetics,Success,215
+227,Study on Pharmacology (2022),2009,Author32; Author87,Europe,186,283,Government,Cardiology,Neutral,97
+228,Study on Public Health (2017),2010,Author16; Author71,North America,406,317,Government,Neurology,Neutral,89
+229,Study on Oncology (2003),2003,Author25; Author68,Asia,371,236,Private,Neurology,Success,135
+230,Study on Oncology (2022),2002,Author26; Author74,Asia,213,487,NGO,Neurology,Neutral,274
+231,Study on Cardiology (2017),2010,Author8; Author87,Oceania,386,190,Government,Pharmacology,Failure,196
+232,Study on Oncology (2011),2021,Author13; Author88,Asia,80,472,NGO,Genetics,Neutral,392
+233,Study on Pharmacology (2017),2009,Author35; Author62,South America,447,171,Private,Public Health,Success,276
+234,Study on Cardiology (2013),2009,Author44; Author100,Oceania,452,291,Private,Neurology,Success,161
+235,Study on Cardiology (2001),2014,Author36; Author52,North America,347,176,Private,Oncology,Failure,171
+236,Study on Neurology (2011),2019,Author47; Author80,North America,70,442,Government,Oncology,Success,372
+237,Study on Oncology (2011),2022,Author46; Author64,North America,392,200,NGO,Neurology,Neutral,192
+238,Study on Cardiology (2021),2013,Author29; Author69,North America,127,221,Government,Neurology,Failure,94
+239,Study on Cardiology (2021),2005,Author45; Author55,Europe,238,401,NGO,Public Health,Failure,163
+240,Study on Oncology (2011),2022,Author27; Author94,Oceania,410,334,Government,Public Health,Neutral,76
+241,Study on Pharmacology (2013),2014,Author32; Author59,Oceania,368,230,Private,Pharmacology,Success,138
+242,Study on Pharmacology (2023),2011,Author41; Author70,Europe,496,432,Private,Pharmacology,Success,64
+243,Study on Cardiology (2007),2014,Author16; Author67,Asia,92,381,Private,Oncology,Success,289
+244,Study on Cardiology (2005),2001,Author43; Author60,Asia,61,175,Government,Public Health,Success,114
+245,Study on Public Health (2000),2023,Author46; Author78,South America,119,321,NGO,Genetics,Neutral,202
+246,Study on Cardiology (2023),2011,Author25; Author55,Africa,270,133,Private,Pharmacology,Neutral,137
+247,Study on Neurology (2013),2019,Author29; Author89,Asia,215,298,Private,Genetics,Neutral,83
+248,Study on Genetics (2023),2013,Author31; Author88,Oceania,412,289,Government,Pharmacology,Success,123
+249,Study on Cardiology (2008),2008,Author26; Author85,North America,183,119,Private,Neurology,Neutral,64
+250,Study on Cardiology (2022),2020,Author33; Author95,Asia,420,202,Private,Public Health,Neutral,218
+251,Study on Oncology (2012),2001,Author27; Author85,Asia,291,402,Government,Pharmacology,Failure,111
+252,Study on Oncology (2015),2002,Author3; Author74,Europe,324,291,Government,Neurology,Failure,33
+253,Study on Cardiology (2006),2021,Author45; Author85,North America,366,484,Private,Genetics,Failure,118
+254,Study on Public Health (2011),2020,Author39; Author91,South America,360,391,NGO,Genetics,Failure,31
+255,Study on Neurology (2007),2012,Author6; Author57,South America,371,140,NGO,Oncology,Neutral,231
+256,Study on Cardiology (2000),2011,Author50; Author66,South America,36,194,NGO,Cardiology,Success,158
+257,Study on Genetics (2006),2016,Author43; Author93,Asia,92,241,NGO,Public Health,Failure,149
+258,Study on Public Health (2010),2023,Author23; Author61,South America,209,239,NGO,Oncology,Success,30
+259,Study on Neurology (2002),2021,Author42; Author90,Oceania,335,213,NGO,Oncology,Neutral,122
+260,Study on Neurology (2011),2005,Author3; Author87,South America,12,10,Government,Public Health,Neutral,2
+261,Study on Genetics (2016),2000,Author42; Author94,South America,421,381,NGO,Cardiology,Failure,40
+262,Study on Public Health (2021),2004,Author42; Author76,Oceania,56,27,Government,Neurology,Failure,29
+263,Study on Pharmacology (2010),2019,Author49; Author72,Europe,431,155,Government,Oncology,Success,276
+264,Study on Oncology (2003),2021,Author28; Author57,North America,84,315,Government,Oncology,Success,231
+265,Study on Neurology (2005),2014,Author1; Author57,Europe,251,18,Private,Cardiology,Failure,233
+266,Study on Pharmacology (2008),2001,Author17; Author65,Oceania,484,275,NGO,Neurology,Failure,209
+267,Study on Oncology (2003),2004,Author33; Author98,Oceania,317,79,NGO,Oncology,Success,238
+268,Study on Pharmacology (2013),2002,Author34; Author86,North America,232,465,NGO,Genetics,Failure,233
+269,Study on Neurology (2023),2007,Author38; Author95,Europe,55,164,Private,Cardiology,Failure,109
+270,Study on Neurology (2013),2020,Author37; Author65,North America,42,13,Government,Public Health,Neutral,29
+271,Study on Pharmacology (2016),2011,Author29; Author74,South America,144,163,NGO,Cardiology,Success,19
+272,Study on Oncology (2012),2011,Author26; Author80,Africa,123,123,Private,Cardiology,Success,0
+273,Study on Pharmacology (2006),2012,Author50; Author94,South America,199,119,Private,Pharmacology,Success,80
+274,Study on Neurology (2001),2018,Author38; Author95,Africa,50,448,NGO,Genetics,Neutral,398
+275,Study on Genetics (2013),2001,Author33; Author60,Oceania,321,171,Government,Oncology,Neutral,150
+276,Study on Oncology (2016),2019,Author23; Author52,South America,29,21,Private,Neurology,Neutral,8
+277,Study on Pharmacology (2021),2004,Author31; Author57,Europe,380,405,Government,Public Health,Neutral,25
+278,Study on Genetics (2023),2021,Author19; Author77,Africa,206,430,Government,Genetics,Success,224
+279,Study on Genetics (2021),2014,Author6; Author58,South America,486,492,NGO,Pharmacology,Success,6
+280,Study on Cardiology (2011),2011,Author47; Author60,Asia,215,363,NGO,Cardiology,Failure,148
+281,Study on Public Health (2002),2011,Author23; Author70,Africa,324,431,NGO,Public Health,Success,107
+282,Study on Genetics (2010),2014,Author22; Author80,North America,345,151,Government,Neurology,Failure,194
+283,Study on Pharmacology (2010),2002,Author14; Author84,Oceania,276,480,Government,Public Health,Neutral,204
+284,Study on Genetics (2003),2018,Author31; Author73,Oceania,156,293,Private,Public Health,Success,137
+285,Study on Genetics (2009),2004,Author31; Author57,Europe,374,271,Private,Genetics,Success,103
+286,Study on Pharmacology (2009),2016,Author29; Author97,South America,315,294,Private,Genetics,Failure,21
+287,Study on Genetics (2013),2011,Author45; Author79,South America,39,302,NGO,Oncology,Neutral,263
+288,Study on Neurology (2012),2012,Author21; Author55,North America,494,484,Government,Neurology,Failure,10
+289,Study on Genetics (2009),2010,Author20; Author53,South America,406,302,Government,Cardiology,Neutral,104
+290,Study on Pharmacology (2004),2020,Author46; Author58,South America,429,89,Government,Oncology,Failure,340
+291,Study on Cardiology (2013),2008,Author2; Author72,North America,99,58,Private,Oncology,Success,41
+292,Study on Genetics (2012),2007,Author42; Author57,North America,337,29,NGO,Cardiology,Success,308
+293,Study on Genetics (2023),2003,Author44; Author61,Asia,263,245,NGO,Pharmacology,Failure,18
+294,Study on Cardiology (2019),2000,Author48; Author66,Oceania,234,192,Government,Genetics,Success,42
+295,Study on Pharmacology (2009),2023,Author34; Author62,Asia,15,89,Government,Neurology,Neutral,74
+296,Study on Public Health (2017),2005,Author36; Author61,North America,113,80,Government,Public Health,Success,33
+297,Study on Oncology (2009),2015,Author22; Author86,Oceania,445,145,Government,Pharmacology,Success,300
+298,Study on Neurology (2006),2016,Author28; Author80,Oceania,346,197,Private,Neurology,Neutral,149
+299,Study on Public Health (2018),2012,Author15; Author76,Africa,486,465,Private,Genetics,Neutral,21
+300,Study on Pharmacology (2020),2017,Author41; Author62,Oceania,421,308,Government,Genetics,Failure,113
+301,Study on Neurology (2014),2003,Author12; Author91,Africa,275,137,Private,Neurology,Failure,138
+302,Study on Public Health (2014),2008,Author43; Author78,Oceania,156,129,Government,Public Health,Neutral,27
+303,Study on Genetics (2006),2008,Author26; Author52,Africa,109,141,Government,Pharmacology,Failure,32
+304,Study on Pharmacology (2015),2022,Author48; Author90,Europe,27,425,Government,Genetics,Success,398
+305,Study on Genetics (2005),2014,Author13; Author79,Oceania,411,163,Private,Genetics,Success,248
+306,Study on Genetics (2002),2006,Author38; Author78,Asia,316,57,Government,Pharmacology,Neutral,259
+307,Study on Neurology (2016),2019,Author25; Author51,Africa,271,302,Government,Pharmacology,Success,31
+308,Study on Genetics (2020),2009,Author46; Author64,Africa,274,214,NGO,Public Health,Success,60
+309,Study on Pharmacology (2010),2022,Author14; Author68,Oceania,367,301,NGO,Public Health,Failure,66
+310,Study on Oncology (2007),2015,Author49; Author96,Oceania,128,479,Private,Neurology,Failure,351
+311,Study on Genetics (2009),2006,Author5; Author87,Africa,324,121,NGO,Pharmacology,Neutral,203
+312,Study on Cardiology (2006),2003,Author7; Author85,North America,96,385,Private,Cardiology,Failure,289
+313,Study on Cardiology (2000),2004,Author12; Author74,South America,355,49,Government,Neurology,Failure,306
+314,Study on Oncology (2007),2002,Author21; Author63,Oceania,28,380,NGO,Cardiology,Success,352
+315,Study on Public Health (2019),2014,Author30; Author58,Oceania,194,176,Private,Neurology,Failure,18
+316,Study on Oncology (2014),2005,Author17; Author93,Europe,132,415,Government,Cardiology,Success,283
+317,Study on Public Health (2020),2022,Author32; Author84,South America,345,257,NGO,Public Health,Neutral,88
+318,Study on Pharmacology (2006),2014,Author41; Author71,Asia,10,98,NGO,Neurology,Success,88
+319,Study on Genetics (2022),2002,Author39; Author75,Oceania,90,259,Private,Neurology,Failure,169
+320,Study on Public Health (2015),2021,Author40; Author76,Oceania,54,432,Government,Oncology,Neutral,378
+321,Study on Public Health (2007),2010,Author38; Author58,Oceania,151,470,NGO,Cardiology,Neutral,319
+322,Study on Cardiology (2020),2021,Author23; Author73,South America,409,363,Government,Neurology,Success,46
+323,Study on Genetics (2000),2011,Author30; Author90,Europe,214,369,Government,Neurology,Failure,155
+324,Study on Oncology (2013),2022,Author12; Author94,Africa,190,305,NGO,Public Health,Success,115
+325,Study on Cardiology (2005),2002,Author46; Author70,Africa,352,429,Government,Cardiology,Failure,77
+326,Study on Genetics (2016),2017,Author40; Author88,North America,212,474,Private,Pharmacology,Success,262
+327,Study on Public Health (2001),2017,Author6; Author94,North America,217,58,NGO,Cardiology,Success,159
+328,Study on Pharmacology (2007),2009,Author9; Author71,Oceania,310,314,Private,Genetics,Failure,4
+329,Study on Oncology (2014),2009,Author8; Author66,Europe,112,338,NGO,Pharmacology,Failure,226
+330,Study on Cardiology (2014),2005,Author20; Author58,Africa,275,163,Private,Neurology,Success,112
+331,Study on Genetics (2016),2022,Author12; Author74,South America,17,29,Government,Cardiology,Neutral,12
+332,Study on Pharmacology (2019),2022,Author45; Author60,South America,387,384,Government,Cardiology,Failure,3
+333,Study on Neurology (2014),2022,Author33; Author75,Europe,370,423,Private,Genetics,Success,53
+334,Study on Pharmacology (2023),2020,Author27; Author89,North America,45,305,Government,Genetics,Failure,260
+335,Study on Pharmacology (2013),2005,Author9; Author87,South America,480,205,Private,Genetics,Neutral,275
+336,Study on Pharmacology (2014),2011,Author25; Author78,Asia,56,50,NGO,Cardiology,Neutral,6
+337,Study on Cardiology (2023),2016,Author12; Author82,Europe,291,409,NGO,Cardiology,Neutral,118
+338,Study on Public Health (2014),2007,Author41; Author85,Asia,155,38,Government,Cardiology,Failure,117
+339,Study on Neurology (2007),2003,Author45; Author92,Asia,381,481,Government,Oncology,Success,100
+340,Study on Genetics (2008),2006,Author12; Author86,North America,434,404,NGO,Oncology,Success,30
+341,Study on Pharmacology (2015),2004,Author11; Author82,Africa,296,181,Government,Neurology,Failure,115
+342,Study on Genetics (2007),2007,Author19; Author59,Europe,478,188,NGO,Pharmacology,Success,290
+343,Study on Neurology (2014),2015,Author12; Author71,Africa,308,460,NGO,Cardiology,Failure,152
+344,Study on Oncology (2022),2000,Author29; Author90,Oceania,188,428,Private,Public Health,Neutral,240
+345,Study on Neurology (2007),2011,Author4; Author73,South America,187,232,Private,Neurology,Failure,45
+346,Study on Neurology (2010),2017,Author1; Author82,South America,427,223,NGO,Neurology,Neutral,204
+347,Study on Neurology (2017),2018,Author9; Author63,Europe,151,486,NGO,Cardiology,Success,335
+348,Study on Oncology (2004),2011,Author25; Author86,North America,125,454,Private,Cardiology,Neutral,329
+349,Study on Cardiology (2007),2014,Author33; Author92,South America,320,71,NGO,Pharmacology,Failure,249
+350,Study on Public Health (2022),2017,Author32; Author77,South America,109,455,NGO,Genetics,Neutral,346
+351,Study on Cardiology (2022),2004,Author44; Author82,Africa,242,404,NGO,Oncology,Failure,162
+352,Study on Cardiology (2002),2019,Author27; Author96,South America,486,126,Government,Genetics,Neutral,360
+353,Study on Public Health (2013),2002,Author29; Author82,North America,216,392,Private,Neurology,Neutral,176
+354,Study on Neurology (2017),2002,Author11; Author56,South America,304,344,NGO,Neurology,Failure,40
+355,Study on Public Health (2013),2009,Author37; Author52,South America,12,444,NGO,Cardiology,Success,432
+356,Study on Oncology (2006),2012,Author49; Author65,Asia,143,318,Government,Neurology,Success,175
+357,Study on Public Health (2012),2022,Author19; Author53,North America,99,485,Government,Public Health,Neutral,386
+358,Study on Pharmacology (2022),2023,Author18; Author65,South America,218,15,NGO,Pharmacology,Success,203
+359,Study on Oncology (2018),2015,Author35; Author69,Oceania,269,334,Private,Cardiology,Success,65
+360,Study on Public Health (2015),2016,Author11; Author100,Oceania,64,408,Government,Pharmacology,Failure,344
+361,Study on Oncology (2011),2013,Author30; Author87,North America,296,333,Private,Neurology,Success,37
+362,Study on Neurology (2012),2013,Author48; Author100,North America,47,205,Government,Oncology,Failure,158
+363,Study on Public Health (2017),2018,Author50; Author82,South America,267,37,Government,Oncology,Failure,230
+364,Study on Genetics (2023),2002,Author36; Author83,South America,160,166,Private,Public Health,Neutral,6
+365,Study on Pharmacology (2019),2004,Author8; Author87,North America,184,278,NGO,Public Health,Neutral,94
+366,Study on Cardiology (2015),2010,Author8; Author68,Africa,494,31,Private,Cardiology,Neutral,463
+367,Study on Cardiology (2008),2020,Author50; Author85,Africa,69,173,NGO,Public Health,Neutral,104
+368,Study on Public Health (2015),2002,Author24; Author85,North America,421,286,NGO,Neurology,Neutral,135
+369,Study on Oncology (2012),2014,Author49; Author53,North America,272,299,Government,Cardiology,Success,27
+370,Study on Neurology (2021),2014,Author49; Author97,Africa,499,86,Government,Oncology,Success,413
+371,Study on Genetics (2012),2021,Author29; Author85,Africa,141,177,Government,Genetics,Failure,36
+372,Study on Genetics (2005),2016,Author14; Author78,Oceania,458,267,NGO,Pharmacology,Neutral,191
+373,Study on Public Health (2004),2011,Author7; Author98,Asia,285,367,NGO,Pharmacology,Neutral,82
+374,Study on Pharmacology (2017),2004,Author42; Author99,Africa,426,123,Private,Neurology,Failure,303
+375,Study on Oncology (2012),2017,Author16; Author70,Africa,416,88,Private,Genetics,Failure,328
+376,Study on Pharmacology (2018),2020,Author3; Author79,Europe,304,35,Private,Genetics,Failure,269
+377,Study on Genetics (2000),2018,Author17; Author73,Oceania,138,354,Private,Neurology,Neutral,216
+378,Study on Oncology (2020),2005,Author6; Author79,Oceania,365,384,NGO,Public Health,Failure,19
+379,Study on Public Health (2004),2004,Author8; Author100,South America,236,211,NGO,Neurology,Success,25
+380,Study on Public Health (2005),2013,Author16; Author64,Asia,203,238,Private,Pharmacology,Neutral,35
+381,Study on Oncology (2008),2016,Author48; Author88,Asia,298,395,Private,Genetics,Success,97
+382,Study on Public Health (2010),2001,Author45; Author73,North America,257,314,NGO,Cardiology,Neutral,57
+383,Study on Cardiology (2014),2003,Author46; Author90,Europe,404,304,Private,Pharmacology,Success,100
+384,Study on Neurology (2010),2016,Author41; Author78,South America,134,268,Government,Genetics,Failure,134
+385,Study on Public Health (2008),2004,Author11; Author90,Asia,397,56,NGO,Public Health,Success,341
+386,Study on Public Health (2008),2009,Author9; Author64,Africa,183,123,Government,Neurology,Neutral,60
+387,Study on Oncology (2015),2005,Author14; Author54,Africa,407,231,Government,Genetics,Failure,176
+388,Study on Oncology (2023),2005,Author37; Author73,Africa,244,158,NGO,Oncology,Failure,86
+389,Study on Pharmacology (2001),2010,Author35; Author68,South America,358,412,NGO,Genetics,Failure,54
+390,Study on Neurology (2007),2022,Author39; Author85,Oceania,245,211,Government,Public Health,Success,34
+391,Study on Genetics (2002),2007,Author11; Author71,Oceania,469,85,Private,Oncology,Success,384
+392,Study on Genetics (2001),2011,Author46; Author69,Asia,310,77,Private,Cardiology,Failure,233
+393,Study on Oncology (2007),2016,Author19; Author87,Oceania,451,182,NGO,Genetics,Neutral,269
+394,Study on Cardiology (2000),2009,Author18; Author83,South America,24,52,Government,Pharmacology,Neutral,28
+395,Study on Pharmacology (2004),2002,Author44; Author57,North America,256,253,Government,Oncology,Failure,3
+396,Study on Cardiology (2004),2008,Author9; Author99,North America,69,302,NGO,Neurology,Success,233
+397,Study on Public Health (2021),2006,Author27; Author54,Oceania,142,391,NGO,Oncology,Failure,249
+398,Study on Oncology (2018),2020,Author18; Author92,Europe,44,35,Government,Public Health,Success,9
+399,Study on Cardiology (2014),2017,Author9; Author95,North America,205,290,Government,Pharmacology,Failure,85
+400,Study on Genetics (2008),2008,Author9; Author66,Asia,334,214,NGO,Cardiology,Success,120
+401,Study on Neurology (2005),2004,Author10; Author96,Asia,413,144,Government,Public Health,Success,269
+402,Study on Pharmacology (2019),2020,Author21; Author66,Oceania,122,53,Private,Neurology,Failure,69
+403,Study on Genetics (2022),2009,Author49; Author94,Asia,356,214,NGO,Oncology,Failure,142
+404,Study on Oncology (2005),2019,Author26; Author82,Africa,369,266,Private,Neurology,Neutral,103
+405,Study on Neurology (2003),2017,Author10; Author87,Africa,127,232,NGO,Oncology,Failure,105
+406,Study on Pharmacology (2000),2002,Author41; Author68,Asia,419,406,NGO,Pharmacology,Failure,13
+407,Study on Neurology (2018),2016,Author41; Author77,Oceania,171,367,Government,Genetics,Failure,196
+408,Study on Genetics (2012),2020,Author25; Author79,North America,221,76,Private,Cardiology,Failure,145
+409,Study on Public Health (2022),2005,Author5; Author91,North America,499,400,Government,Pharmacology,Neutral,99
+410,Study on Cardiology (2002),2018,Author50; Author56,Europe,190,79,Private,Pharmacology,Failure,111
+411,Study on Pharmacology (2022),2018,Author26; Author83,South America,274,256,Government,Cardiology,Neutral,18
+412,Study on Genetics (2007),2004,Author48; Author68,Europe,284,296,NGO,Neurology,Failure,12
+413,Study on Oncology (2022),2005,Author45; Author74,Oceania,14,111,Private,Cardiology,Failure,97
+414,Study on Neurology (2021),2021,Author30; Author82,Oceania,368,259,Private,Oncology,Success,109
+415,Study on Pharmacology (2003),2019,Author21; Author88,Oceania,436,212,NGO,Oncology,Failure,224
+416,Study on Pharmacology (2001),2023,Author1; Author100,South America,144,343,NGO,Pharmacology,Neutral,199
+417,Study on Neurology (2017),2019,Author47; Author56,North America,137,302,Government,Public Health,Failure,165
+418,Study on Public Health (2021),2010,Author47; Author80,Asia,157,110,Private,Genetics,Success,47
+419,Study on Neurology (2002),2018,Author41; Author93,Africa,57,297,Government,Genetics,Neutral,240
+420,Study on Pharmacology (2020),2001,Author45; Author73,Europe,214,325,Private,Oncology,Neutral,111
+421,Study on Neurology (2000),2000,Author5; Author85,Europe,354,386,Private,Pharmacology,Neutral,32
+422,Study on Public Health (2015),2002,Author26; Author64,North America,393,278,Government,Public Health,Failure,115
+423,Study on Oncology (2013),2001,Author28; Author64,South America,430,136,NGO,Cardiology,Success,294
+424,Study on Neurology (2020),2020,Author32; Author68,Europe,185,134,NGO,Public Health,Success,51
+425,Study on Public Health (2022),2018,Author21; Author69,South America,48,46,Government,Neurology,Success,2
+426,Study on Cardiology (2013),2008,Author22; Author86,Europe,293,146,NGO,Pharmacology,Success,147
+427,Study on Cardiology (2023),2020,Author37; Author59,Oceania,486,407,Government,Pharmacology,Success,79
+428,Study on Pharmacology (2020),2006,Author37; Author82,Asia,101,230,NGO,Pharmacology,Success,129
+429,Study on Neurology (2019),2018,Author22; Author94,North America,253,175,Government,Oncology,Success,78
+430,Study on Pharmacology (2015),2013,Author49; Author54,South America,170,360,Government,Genetics,Failure,190
+431,Study on Public Health (2013),2019,Author3; Author57,North America,191,483,Government,Neurology,Failure,292
+432,Study on Genetics (2018),2020,Author41; Author80,Oceania,121,304,Government,Public Health,Success,183
+433,Study on Neurology (2010),2000,Author2; Author58,Oceania,467,55,NGO,Cardiology,Neutral,412
+434,Study on Cardiology (2002),2015,Author11; Author79,Africa,303,67,Private,Genetics,Failure,236
+435,Study on Neurology (2014),2020,Author30; Author51,North America,147,353,NGO,Public Health,Failure,206
+436,Study on Cardiology (2014),2017,Author28; Author63,South America,103,221,Private,Neurology,Success,118
+437,Study on Pharmacology (2019),2009,Author45; Author59,South America,494,226,Government,Public Health,Failure,268
+438,Study on Genetics (2012),2020,Author42; Author70,Oceania,392,197,Private,Neurology,Success,195
+439,Study on Neurology (2000),2009,Author11; Author68,Africa,359,188,Private,Oncology,Failure,171
+440,Study on Public Health (2010),2015,Author6; Author92,Africa,486,107,NGO,Neurology,Failure,379
+441,Study on Cardiology (2015),2007,Author24; Author67,Europe,475,174,Government,Neurology,Neutral,301
+442,Study on Cardiology (2011),2021,Author6; Author74,South America,107,186,Government,Neurology,Neutral,79
+443,Study on Neurology (2010),2012,Author43; Author92,North America,265,314,Government,Neurology,Failure,49
+444,Study on Neurology (2019),2009,Author11; Author54,Africa,387,345,Private,Public Health,Failure,42
+445,Study on Genetics (2008),2014,Author26; Author91,Oceania,112,22,Government,Pharmacology,Failure,90
+446,Study on Pharmacology (2000),2002,Author20; Author97,North America,130,404,NGO,Oncology,Success,274
+447,Study on Pharmacology (2006),2022,Author45; Author99,Africa,386,166,Private,Cardiology,Neutral,220
+448,Study on Oncology (2007),2001,Author15; Author78,South America,133,96,Private,Genetics,Success,37
+449,Study on Genetics (2013),2005,Author42; Author56,Africa,456,189,Private,Public Health,Success,267
+450,Study on Public Health (2017),2014,Author46; Author57,South America,145,325,Private,Genetics,Failure,180
+451,Study on Cardiology (2022),2013,Author1; Author64,Africa,115,430,NGO,Public Health,Success,315
+452,Study on Public Health (2020),2015,Author31; Author55,Europe,127,421,Private,Public Health,Success,294
+453,Study on Genetics (2015),2014,Author9; Author88,Oceania,113,236,Private,Neurology,Failure,123
+454,Study on Public Health (2000),2006,Author15; Author84,Africa,437,329,NGO,Cardiology,Success,108
+455,Study on Oncology (2009),2010,Author44; Author79,Europe,137,84,Government,Genetics,Success,53
+456,Study on Cardiology (2012),2019,Author1; Author51,Oceania,438,235,NGO,Public Health,Neutral,203
+457,Study on Genetics (2007),2004,Author45; Author72,Europe,326,32,Government,Genetics,Neutral,294
+458,Study on Neurology (2021),2010,Author8; Author78,North America,192,483,Private,Public Health,Failure,291
+459,Study on Pharmacology (2011),2022,Author45; Author59,South America,89,428,Private,Cardiology,Neutral,339
+460,Study on Public Health (2017),2010,Author31; Author55,Oceania,408,129,Private,Pharmacology,Neutral,279
+461,Study on Pharmacology (2011),2023,Author15; Author75,Africa,64,112,NGO,Pharmacology,Neutral,48
+462,Study on Public Health (2023),2011,Author6; Author97,Africa,71,360,Government,Oncology,Success,289
+463,Study on Pharmacology (2010),2012,Author7; Author57,Asia,481,201,Government,Cardiology,Neutral,280
+464,Study on Neurology (2022),2004,Author21; Author74,Africa,50,89,NGO,Cardiology,Success,39
+465,Study on Public Health (2008),2011,Author20; Author59,South America,356,397,NGO,Neurology,Neutral,41
+466,Study on Neurology (2008),2016,Author25; Author100,South America,499,382,Government,Public Health,Neutral,117
+467,Study on Cardiology (2003),2017,Author49; Author59,Africa,349,446,NGO,Pharmacology,Success,97
+468,Study on Genetics (2006),2003,Author42; Author94,Oceania,262,53,Private,Neurology,Failure,209
+469,Study on Neurology (2003),2010,Author10; Author55,Europe,324,67,Government,Oncology,Success,257
+470,Study on Genetics (2017),2007,Author34; Author87,Asia,13,388,NGO,Pharmacology,Success,375
+471,Study on Genetics (2005),2014,Author1; Author90,South America,401,37,Government,Public Health,Failure,364
+472,Study on Cardiology (2006),2003,Author42; Author61,Asia,448,134,NGO,Oncology,Neutral,314
+473,Study on Genetics (2015),2008,Author29; Author73,Asia,287,495,Government,Oncology,Success,208
+474,Study on Neurology (2023),2014,Author47; Author64,South America,500,327,Government,Public Health,Failure,173
+475,Study on Pharmacology (2016),2007,Author41; Author98,Europe,31,484,Government,Genetics,Success,453
+476,Study on Pharmacology (2009),2004,Author10; Author77,Europe,444,85,Private,Neurology,Failure,359
+477,Study on Oncology (2006),2003,Author40; Author94,South America,256,454,Private,Public Health,Neutral,198
+478,Study on Neurology (2007),2001,Author29; Author64,Africa,200,436,Government,Cardiology,Neutral,236
+479,Study on Neurology (2005),2009,Author6; Author57,Oceania,327,429,NGO,Pharmacology,Success,102
+480,Study on Neurology (2000),2012,Author9; Author99,Oceania,171,157,Private,Public Health,Failure,14
+481,Study on Genetics (2017),2019,Author8; Author88,Africa,262,17,NGO,Genetics,Failure,245
+482,Study on Cardiology (2008),2013,Author47; Author75,Asia,469,185,Government,Pharmacology,Neutral,284
+483,Study on Oncology (2001),2007,Author23; Author78,Oceania,461,365,NGO,Cardiology,Success,96
+484,Study on Pharmacology (2009),2005,Author21; Author59,Africa,469,421,Private,Cardiology,Failure,48
+485,Study on Genetics (2004),2010,Author16; Author68,Asia,304,66,NGO,Cardiology,Success,238
+486,Study on Genetics (2015),2018,Author42; Author56,Oceania,454,166,NGO,Public Health,Success,288
+487,Study on Oncology (2000),2023,Author16; Author86,Oceania,150,240,Government,Neurology,Success,90
+488,Study on Pharmacology (2009),2010,Author39; Author89,Africa,261,251,Government,Pharmacology,Failure,10
+489,Study on Public Health (2015),2006,Author47; Author89,Oceania,103,21,NGO,Public Health,Neutral,82
+490,Study on Public Health (2010),2005,Author19; Author100,Europe,401,179,NGO,Oncology,Neutral,222
+491,Study on Cardiology (2001),2015,Author45; Author52,Europe,478,117,Government,Neurology,Failure,361
+492,Study on Neurology (2015),2016,Author43; Author70,Europe,271,388,Private,Pharmacology,Failure,117
+493,Study on Oncology (2002),2014,Author14; Author84,Africa,153,285,Private,Neurology,Neutral,132
+494,Study on Public Health (2015),2015,Author39; Author83,Oceania,213,118,NGO,Public Health,Failure,95
+495,Study on Oncology (2018),2009,Author13; Author98,Asia,123,114,Government,Pharmacology,Neutral,9
+496,Study on Genetics (2021),2015,Author26; Author69,Oceania,394,289,NGO,Genetics,Neutral,105
+497,Study on Oncology (2004),2000,Author42; Author54,Asia,305,277,Government,Public Health,Success,28
+498,Study on Cardiology (2018),2002,Author16; Author82,Oceania,75,394,Private,Cardiology,Failure,319
+499,Study on Neurology (2002),2012,Author25; Author58,Europe,37,142,NGO,Oncology,Success,105
+500,Study on Cardiology (2003),2016,Author16; Author82,Oceania,279,290,Government,Oncology,Neutral,11
+501,Study on Pharmacology (2013),2014,Author41; Author89,Oceania,419,257,NGO,Cardiology,Neutral,162
+502,Study on Pharmacology (2019),2007,Author5; Author84,Europe,226,328,Private,Neurology,Failure,102
+503,Study on Pharmacology (2007),2006,Author1; Author74,Africa,254,383,Private,Neurology,Failure,129
+504,Study on Pharmacology (2012),2018,Author21; Author59,Africa,491,82,NGO,Genetics,Neutral,409
+505,Study on Public Health (2014),2011,Author25; Author87,Oceania,286,365,NGO,Genetics,Neutral,79
+506,Study on Neurology (2018),2001,Author27; Author74,Oceania,26,367,NGO,Public Health,Neutral,341
+507,Study on Public Health (2009),2001,Author35; Author94,Asia,267,352,Government,Oncology,Success,85
+508,Study on Pharmacology (2019),2009,Author12; Author99,Oceania,187,19,Government,Genetics,Success,168
+509,Study on Oncology (2019),2015,Author31; Author100,North America,211,202,NGO,Genetics,Success,9
+510,Study on Genetics (2003),2019,Author5; Author52,Asia,450,308,Private,Neurology,Neutral,142
+511,Study on Cardiology (2020),2020,Author38; Author55,Africa,361,473,NGO,Public Health,Failure,112
+512,Study on Cardiology (2008),2021,Author1; Author67,South America,407,349,NGO,Cardiology,Failure,58
+513,Study on Genetics (2002),2015,Author14; Author53,Africa,99,279,Private,Public Health,Success,180
+514,Study on Cardiology (2007),2009,Author4; Author76,Africa,244,32,Private,Genetics,Neutral,212
+515,Study on Cardiology (2017),2017,Author33; Author69,Oceania,71,140,Government,Genetics,Success,69
+516,Study on Oncology (2005),2000,Author41; Author96,Oceania,367,97,NGO,Cardiology,Neutral,270
+517,Study on Oncology (2013),2003,Author33; Author100,South America,275,40,NGO,Oncology,Neutral,235
+518,Study on Public Health (2022),2013,Author27; Author78,Oceania,245,155,NGO,Oncology,Failure,90
+519,Study on Pharmacology (2015),2004,Author45; Author76,Oceania,171,112,NGO,Neurology,Success,59
+520,Study on Neurology (2001),2008,Author6; Author91,Africa,362,414,Private,Public Health,Failure,52
+521,Study on Cardiology (2009),2023,Author35; Author85,Asia,14,366,NGO,Oncology,Failure,352
+522,Study on Genetics (2009),2011,Author40; Author60,South America,16,326,NGO,Pharmacology,Success,310
+523,Study on Genetics (2014),2012,Author18; Author56,North America,355,148,NGO,Genetics,Success,207
+524,Study on Oncology (2021),2011,Author20; Author56,Africa,117,37,NGO,Neurology,Failure,80
+525,Study on Cardiology (2008),2001,Author33; Author64,North America,204,248,Government,Pharmacology,Success,44
+526,Study on Genetics (2018),2012,Author10; Author85,North America,307,345,NGO,Public Health,Success,38
+527,Study on Genetics (2006),2001,Author21; Author76,South America,61,493,Private,Pharmacology,Success,432
+528,Study on Public Health (2003),2018,Author38; Author91,Europe,176,14,Government,Public Health,Success,162
+529,Study on Pharmacology (2007),2017,Author49; Author92,North America,195,44,NGO,Neurology,Failure,151
+530,Study on Genetics (2004),2006,Author44; Author92,Oceania,323,208,Private,Genetics,Failure,115
+531,Study on Neurology (2004),2011,Author5; Author70,North America,451,348,Government,Genetics,Failure,103
+532,Study on Oncology (2001),2017,Author45; Author78,Europe,142,148,Government,Public Health,Neutral,6
+533,Study on Cardiology (2009),2009,Author47; Author66,Asia,105,349,NGO,Genetics,Neutral,244
+534,Study on Pharmacology (2023),2002,Author4; Author66,Europe,290,446,Government,Oncology,Success,156
+535,Study on Pharmacology (2009),2012,Author6; Author78,Asia,144,477,NGO,Neurology,Success,333
+536,Study on Public Health (2003),2016,Author8; Author80,Oceania,131,347,NGO,Pharmacology,Failure,216
+537,Study on Public Health (2022),2014,Author40; Author89,Asia,147,194,Government,Genetics,Failure,47
+538,Study on Neurology (2022),2017,Author4; Author70,Europe,251,452,Government,Pharmacology,Failure,201
+539,Study on Public Health (2008),2008,Author43; Author98,North America,500,65,Government,Oncology,Neutral,435
+540,Study on Pharmacology (2017),2019,Author43; Author98,Oceania,323,19,Government,Neurology,Failure,304
+541,Study on Public Health (2014),2021,Author12; Author58,Asia,185,159,Government,Cardiology,Neutral,26
+542,Study on Oncology (2019),2019,Author1; Author96,Europe,197,454,Private,Pharmacology,Neutral,257
+543,Study on Oncology (2013),2003,Author9; Author95,Africa,104,462,Private,Oncology,Success,358
+544,Study on Genetics (2010),2004,Author1; Author61,North America,265,342,NGO,Cardiology,Failure,77
+545,Study on Pharmacology (2008),2003,Author32; Author73,Asia,227,207,NGO,Neurology,Neutral,20
+546,Study on Oncology (2002),2012,Author34; Author84,South America,117,128,NGO,Public Health,Success,11
+547,Study on Cardiology (2021),2011,Author47; Author67,North America,224,204,Government,Genetics,Failure,20
+548,Study on Pharmacology (2018),2010,Author11; Author74,Africa,368,270,NGO,Cardiology,Neutral,98
+549,Study on Oncology (2021),2017,Author9; Author98,Oceania,395,373,NGO,Neurology,Success,22
+550,Study on Neurology (2018),2011,Author50; Author68,Oceania,200,60,Government,Cardiology,Failure,140
+551,Study on Oncology (2005),2004,Author47; Author58,Africa,196,472,Private,Oncology,Failure,276
+552,Study on Public Health (2016),2006,Author50; Author52,Europe,447,171,NGO,Neurology,Failure,276
+553,Study on Genetics (2014),2019,Author22; Author78,Oceania,215,258,Government,Neurology,Failure,43
+554,Study on Neurology (2005),2016,Author18; Author84,Oceania,153,453,NGO,Public Health,Failure,300
+555,Study on Pharmacology (2013),2012,Author5; Author67,Africa,240,315,Private,Genetics,Neutral,75
+556,Study on Genetics (2015),2016,Author46; Author87,South America,102,282,NGO,Neurology,Neutral,180
+557,Study on Oncology (2015),2001,Author41; Author55,Europe,302,55,Private,Oncology,Failure,247
+558,Study on Neurology (2013),2001,Author32; Author80,Africa,77,105,NGO,Neurology,Success,28
+559,Study on Neurology (2010),2001,Author33; Author74,Oceania,304,111,Government,Neurology,Failure,193
+560,Study on Genetics (2003),2004,Author4; Author82,Asia,361,266,NGO,Pharmacology,Failure,95
+561,Study on Cardiology (2010),2022,Author37; Author61,Oceania,127,244,NGO,Genetics,Neutral,117
+562,Study on Public Health (2022),2010,Author24; Author61,Oceania,426,297,Private,Oncology,Success,129
+563,Study on Public Health (2009),2015,Author17; Author100,North America,61,484,Government,Pharmacology,Failure,423
+564,Study on Genetics (2012),2016,Author7; Author87,South America,379,374,Government,Cardiology,Neutral,5
+565,Study on Pharmacology (2001),2014,Author44; Author97,South America,148,21,Private,Genetics,Failure,127
+566,Study on Public Health (2002),2004,Author8; Author65,South America,421,30,Private,Cardiology,Success,391
+567,Study on Neurology (2008),2019,Author48; Author83,Oceania,130,136,NGO,Oncology,Success,6
+568,Study on Neurology (2003),2016,Author1; Author53,Asia,294,482,Private,Pharmacology,Neutral,188
+569,Study on Public Health (2016),2004,Author1; Author66,Africa,231,281,Government,Cardiology,Failure,50
+570,Study on Oncology (2021),2010,Author3; Author81,North America,448,166,Government,Pharmacology,Failure,282
+571,Study on Pharmacology (2014),2019,Author24; Author75,North America,205,180,Private,Neurology,Neutral,25
+572,Study on Public Health (2001),2010,Author10; Author62,Oceania,110,260,NGO,Neurology,Success,150
+573,Study on Cardiology (2016),2005,Author3; Author86,Asia,84,211,Government,Genetics,Neutral,127
+574,Study on Neurology (2019),2012,Author46; Author98,Europe,419,391,Government,Neurology,Neutral,28
+575,Study on Public Health (2020),2019,Author42; Author77,Africa,388,90,Government,Neurology,Neutral,298
+576,Study on Public Health (2001),2023,Author15; Author71,South America,86,19,Private,Genetics,Success,67
+577,Study on Cardiology (2008),2009,Author16; Author77,Europe,252,187,NGO,Genetics,Failure,65
+578,Study on Pharmacology (2004),2018,Author47; Author71,Oceania,422,360,Private,Genetics,Neutral,62
+579,Study on Neurology (2014),2010,Author18; Author55,Oceania,14,190,NGO,Neurology,Neutral,176
+580,Study on Genetics (2015),2016,Author37; Author74,Oceania,100,191,Private,Oncology,Neutral,91
+581,Study on Oncology (2000),2016,Author8; Author83,Oceania,225,330,NGO,Pharmacology,Neutral,105
+582,Study on Genetics (2019),2017,Author44; Author54,Asia,265,164,NGO,Pharmacology,Success,101
+583,Study on Cardiology (2022),2015,Author12; Author65,Africa,78,130,Private,Neurology,Failure,52
+584,Study on Cardiology (2009),2022,Author34; Author53,Africa,467,266,NGO,Cardiology,Failure,201
+585,Study on Pharmacology (2000),2018,Author26; Author55,Oceania,444,151,Government,Oncology,Failure,293
+586,Study on Pharmacology (2013),2009,Author30; Author69,Africa,332,425,Government,Cardiology,Success,93
+587,Study on Oncology (2007),2015,Author50; Author70,Europe,274,41,Private,Pharmacology,Failure,233
+588,Study on Oncology (2014),2000,Author21; Author56,Oceania,283,330,Government,Neurology,Failure,47
+589,Study on Oncology (2020),2011,Author36; Author80,Europe,378,141,NGO,Neurology,Success,237
+590,Study on Cardiology (2015),2010,Author1; Author74,Asia,171,459,Private,Public Health,Success,288
+591,Study on Genetics (2009),2021,Author13; Author69,South America,412,208,Government,Public Health,Neutral,204
+592,Study on Pharmacology (2022),2003,Author37; Author70,Europe,259,465,Private,Neurology,Failure,206
+593,Study on Neurology (2013),2013,Author48; Author90,Oceania,163,427,NGO,Cardiology,Success,264
+594,Study on Public Health (2015),2018,Author16; Author80,North America,138,25,Private,Oncology,Neutral,113
+595,Study on Cardiology (2014),2009,Author24; Author88,Europe,297,493,Government,Cardiology,Failure,196
+596,Study on Pharmacology (2004),2023,Author32; Author100,Europe,449,294,Private,Cardiology,Failure,155
+597,Study on Public Health (2006),2022,Author50; Author63,Oceania,300,495,Private,Pharmacology,Neutral,195
+598,Study on Pharmacology (2016),2020,Author47; Author85,Africa,34,153,NGO,Cardiology,Success,119
+599,Study on Genetics (2004),2000,Author49; Author66,North America,213,125,Private,Cardiology,Neutral,88
+600,Study on Oncology (2008),2019,Author10; Author51,South America,60,87,Government,Pharmacology,Success,27
+601,Study on Public Health (2010),2015,Author27; Author52,North America,363,184,Government,Pharmacology,Success,179
+602,Study on Pharmacology (2008),2008,Author15; Author85,South America,93,469,Government,Genetics,Neutral,376
+603,Study on Oncology (2009),2020,Author23; Author91,Asia,40,211,Private,Pharmacology,Success,171
+604,Study on Genetics (2009),2018,Author45; Author51,Africa,120,346,NGO,Pharmacology,Neutral,226
+605,Study on Pharmacology (2018),2018,Author22; Author51,Asia,426,80,Government,Genetics,Failure,346
+606,Study on Genetics (2015),2007,Author49; Author93,Europe,140,54,NGO,Pharmacology,Failure,86
+607,Study on Cardiology (2014),2023,Author25; Author98,Europe,253,383,NGO,Genetics,Success,130
+608,Study on Pharmacology (2015),2001,Author47; Author70,Africa,439,205,Private,Oncology,Failure,234
+609,Study on Neurology (2010),2018,Author7; Author64,Asia,332,276,Private,Public Health,Neutral,56
+610,Study on Pharmacology (2017),2015,Author34; Author66,North America,59,357,NGO,Public Health,Neutral,298
+611,Study on Public Health (2014),2005,Author27; Author82,Asia,240,323,NGO,Oncology,Neutral,83
+612,Study on Neurology (2006),2016,Author4; Author60,South America,391,456,Government,Oncology,Failure,65
+613,Study on Genetics (2007),2020,Author46; Author68,Oceania,181,330,Private,Cardiology,Failure,149
+614,Study on Pharmacology (2012),2023,Author6; Author53,Europe,143,361,NGO,Oncology,Failure,218
+615,Study on Cardiology (2013),2019,Author15; Author84,North America,194,126,Government,Public Health,Neutral,68
+616,Study on Oncology (2010),2012,Author27; Author95,Europe,194,223,Private,Neurology,Success,29
+617,Study on Genetics (2015),2004,Author24; Author80,Asia,296,133,Private,Neurology,Neutral,163
+618,Study on Genetics (2012),2021,Author48; Author56,Africa,295,303,Private,Genetics,Success,8
+619,Study on Public Health (2021),2007,Author38; Author57,North America,487,88,Government,Neurology,Success,399
+620,Study on Genetics (2004),2001,Author33; Author59,Oceania,424,228,Government,Cardiology,Neutral,196
+621,Study on Public Health (2001),2018,Author41; Author76,Africa,141,169,Government,Public Health,Neutral,28
+622,Study on Cardiology (2016),2022,Author5; Author88,Oceania,186,475,Government,Pharmacology,Failure,289
+623,Study on Pharmacology (2010),2003,Author37; Author54,Asia,20,319,Government,Pharmacology,Success,299
+624,Study on Oncology (2014),2006,Author28; Author93,South America,220,178,NGO,Neurology,Success,42
+625,Study on Oncology (2016),2000,Author9; Author66,Africa,72,239,NGO,Cardiology,Failure,167
+626,Study on Public Health (2000),2014,Author19; Author67,Africa,189,287,Private,Genetics,Success,98
+627,Study on Genetics (2004),2010,Author21; Author76,Asia,454,77,Government,Neurology,Success,377
+628,Study on Public Health (2020),2013,Author45; Author98,North America,357,115,NGO,Oncology,Failure,242
+629,Study on Cardiology (2002),2004,Author21; Author71,Oceania,320,344,NGO,Genetics,Neutral,24
+630,Study on Public Health (2008),2013,Author29; Author68,Asia,111,80,Government,Oncology,Failure,31
+631,Study on Neurology (2019),2022,Author15; Author55,Africa,305,307,Government,Cardiology,Failure,2
+632,Study on Genetics (2012),2006,Author13; Author59,Europe,304,287,Government,Cardiology,Neutral,17
+633,Study on Genetics (2002),2013,Author50; Author100,Europe,342,360,Private,Genetics,Neutral,18
+634,Study on Neurology (2021),2016,Author38; Author57,Africa,342,419,NGO,Cardiology,Failure,77
+635,Study on Pharmacology (2012),2019,Author10; Author57,North America,285,113,Government,Genetics,Neutral,172
+636,Study on Neurology (2020),2015,Author11; Author79,Africa,99,451,Private,Cardiology,Failure,352
+637,Study on Genetics (2015),2023,Author30; Author71,Europe,409,80,Government,Neurology,Neutral,329
+638,Study on Pharmacology (2001),2023,Author27; Author58,South America,155,168,Government,Cardiology,Failure,13
+639,Study on Pharmacology (2002),2001,Author35; Author73,Africa,191,362,Government,Cardiology,Failure,171
+640,Study on Cardiology (2020),2022,Author50; Author64,Africa,176,371,NGO,Cardiology,Success,195
+641,Study on Genetics (2009),2004,Author29; Author70,South America,354,470,Government,Oncology,Success,116
+642,Study on Cardiology (2023),2016,Author30; Author67,North America,271,278,NGO,Public Health,Success,7
+643,Study on Oncology (2013),2006,Author8; Author56,Asia,259,475,NGO,Genetics,Success,216
+644,Study on Oncology (2020),2017,Author11; Author94,Europe,406,79,Private,Oncology,Neutral,327
+645,Study on Genetics (2003),2010,Author20; Author96,Europe,387,230,Private,Oncology,Neutral,157
+646,Study on Public Health (2005),2021,Author45; Author89,Oceania,238,475,NGO,Oncology,Failure,237
+647,Study on Genetics (2009),2015,Author3; Author64,Asia,465,404,NGO,Public Health,Neutral,61
+648,Study on Oncology (2001),2016,Author21; Author60,Asia,50,84,Government,Public Health,Success,34
+649,Study on Neurology (2001),2012,Author6; Author96,Asia,205,345,Government,Oncology,Failure,140
+650,Study on Neurology (2011),2010,Author16; Author73,Asia,324,487,NGO,Cardiology,Neutral,163
+651,Study on Neurology (2013),2005,Author26; Author83,Europe,156,299,NGO,Oncology,Success,143
+652,Study on Cardiology (2007),2014,Author4; Author94,Africa,247,479,Government,Oncology,Success,232
+653,Study on Pharmacology (2013),2017,Author20; Author67,Africa,333,90,Government,Genetics,Failure,243
+654,Study on Pharmacology (2021),2010,Author12; Author52,South America,499,172,Government,Pharmacology,Success,327
+655,Study on Cardiology (2005),2017,Author26; Author79,Africa,84,44,Government,Pharmacology,Success,40
+656,Study on Cardiology (2002),2011,Author36; Author98,Oceania,454,295,Private,Oncology,Success,159
+657,Study on Pharmacology (2012),2021,Author36; Author66,North America,95,282,Government,Public Health,Neutral,187
+658,Study on Pharmacology (2021),2023,Author7; Author80,North America,337,495,NGO,Oncology,Failure,158
+659,Study on Cardiology (2015),2021,Author7; Author59,Oceania,423,378,NGO,Neurology,Failure,45
+660,Study on Pharmacology (2004),2020,Author8; Author51,Asia,485,70,Government,Oncology,Neutral,415
+661,Study on Cardiology (2014),2022,Author4; Author100,South America,182,104,Government,Oncology,Failure,78
+662,Study on Genetics (2008),2008,Author15; Author59,Europe,225,172,NGO,Neurology,Neutral,53
+663,Study on Public Health (2008),2019,Author13; Author76,Oceania,333,439,NGO,Genetics,Neutral,106
+664,Study on Genetics (2000),2015,Author24; Author94,Africa,323,460,Private,Oncology,Neutral,137
+665,Study on Public Health (2009),2006,Author41; Author92,Africa,302,84,NGO,Oncology,Neutral,218
+666,Study on Genetics (2017),2007,Author6; Author88,Europe,217,382,NGO,Oncology,Failure,165
+667,Study on Cardiology (2002),2008,Author38; Author67,North America,444,25,NGO,Pharmacology,Failure,419
+668,Study on Public Health (2011),2017,Author5; Author52,Oceania,474,401,Private,Cardiology,Neutral,73
+669,Study on Pharmacology (2009),2009,Author5; Author63,Asia,46,173,NGO,Pharmacology,Neutral,127
+670,Study on Genetics (2013),2007,Author42; Author79,South America,50,460,Government,Cardiology,Failure,410
+671,Study on Genetics (2008),2009,Author9; Author56,North America,92,221,NGO,Cardiology,Neutral,129
+672,Study on Public Health (2009),2009,Author22; Author58,South America,185,220,NGO,Genetics,Neutral,35
+673,Study on Cardiology (2012),2022,Author3; Author80,Asia,126,165,Private,Neurology,Neutral,39
+674,Study on Public Health (2003),2006,Author4; Author61,Africa,170,236,Government,Oncology,Neutral,66
+675,Study on Cardiology (2012),2022,Author37; Author78,Oceania,172,391,NGO,Oncology,Failure,219
+676,Study on Pharmacology (2011),2022,Author47; Author76,Asia,344,488,Private,Cardiology,Failure,144
+677,Study on Pharmacology (2009),2015,Author32; Author52,North America,159,430,NGO,Genetics,Success,271
+678,Study on Genetics (2009),2010,Author25; Author94,Africa,373,467,Private,Neurology,Success,94
+679,Study on Oncology (2021),2015,Author28; Author62,Asia,146,336,Private,Pharmacology,Success,190
+680,Study on Public Health (2008),2011,Author23; Author64,Africa,319,487,Private,Neurology,Success,168
+681,Study on Oncology (2018),2017,Author12; Author68,Africa,340,388,Government,Neurology,Success,48
+682,Study on Genetics (2023),2023,Author18; Author79,South America,212,150,Private,Cardiology,Success,62
+683,Study on Oncology (2019),2008,Author10; Author53,South America,148,87,NGO,Pharmacology,Success,61
+684,Study on Genetics (2015),2009,Author40; Author90,North America,464,408,Private,Genetics,Neutral,56
+685,Study on Neurology (2007),2003,Author40; Author66,Asia,237,106,NGO,Pharmacology,Success,131
+686,Study on Pharmacology (2011),2018,Author42; Author69,Oceania,409,64,Government,Cardiology,Success,345
+687,Study on Cardiology (2020),2021,Author32; Author77,Europe,451,77,Government,Pharmacology,Success,374
+688,Study on Cardiology (2019),2017,Author36; Author81,Asia,490,104,Private,Pharmacology,Failure,386
+689,Study on Neurology (2021),2012,Author4; Author56,Africa,195,23,NGO,Oncology,Neutral,172
+690,Study on Genetics (2021),2012,Author18; Author75,North America,392,400,Government,Oncology,Success,8
+691,Study on Genetics (2004),2011,Author9; Author77,North America,310,323,Government,Pharmacology,Neutral,13
+692,Study on Genetics (2003),2004,Author13; Author92,Europe,276,325,Private,Oncology,Success,49
+693,Study on Genetics (2020),2009,Author34; Author66,Africa,240,146,Private,Pharmacology,Failure,94
+694,Study on Oncology (2009),2001,Author41; Author85,Africa,221,320,Private,Cardiology,Neutral,99
+695,Study on Public Health (2001),2009,Author2; Author75,North America,95,300,NGO,Genetics,Neutral,205
+696,Study on Pharmacology (2011),2022,Author46; Author73,Oceania,104,323,Private,Cardiology,Success,219
+697,Study on Genetics (2004),2002,Author31; Author85,North America,447,128,Private,Neurology,Success,319
+698,Study on Oncology (2009),2011,Author32; Author73,Europe,21,315,NGO,Cardiology,Failure,294
+699,Study on Neurology (2023),2014,Author37; Author83,Oceania,74,128,NGO,Pharmacology,Failure,54
+700,Study on Public Health (2005),2020,Author21; Author75,Oceania,382,128,Private,Oncology,Success,254
+701,Study on Cardiology (2004),2008,Author18; Author62,Europe,130,361,NGO,Genetics,Failure,231
+702,Study on Pharmacology (2011),2023,Author2; Author71,Oceania,348,23,NGO,Oncology,Failure,325
+703,Study on Pharmacology (2016),2015,Author39; Author65,South America,138,193,Private,Cardiology,Success,55
+704,Study on Neurology (2005),2006,Author2; Author100,North America,491,50,NGO,Pharmacology,Success,441
+705,Study on Neurology (2015),2006,Author18; Author54,Europe,390,362,Private,Genetics,Success,28
+706,Study on Neurology (2023),2017,Author31; Author84,Africa,368,409,Private,Public Health,Success,41
+707,Study on Neurology (2003),2008,Author23; Author100,Oceania,393,254,NGO,Neurology,Neutral,139
+708,Study on Public Health (2002),2017,Author38; Author65,Oceania,50,78,Private,Genetics,Neutral,28
+709,Study on Cardiology (2007),2022,Author11; Author57,South America,117,267,Government,Pharmacology,Failure,150
+710,Study on Genetics (2023),2008,Author16; Author93,Oceania,95,443,NGO,Cardiology,Failure,348
+711,Study on Genetics (2012),2004,Author16; Author68,North America,213,319,NGO,Public Health,Failure,106
+712,Study on Pharmacology (2011),2003,Author35; Author98,Oceania,62,250,NGO,Genetics,Success,188
+713,Study on Oncology (2012),2019,Author4; Author99,Oceania,58,374,Private,Oncology,Failure,316
+714,Study on Oncology (2008),2023,Author15; Author87,Europe,42,342,Private,Cardiology,Neutral,300
+715,Study on Pharmacology (2003),2018,Author25; Author73,North America,489,201,NGO,Neurology,Success,288
+716,Study on Public Health (2011),2007,Author12; Author62,South America,459,104,Private,Public Health,Success,355
+717,Study on Genetics (2023),2007,Author16; Author88,Oceania,252,446,Government,Public Health,Failure,194
+718,Study on Genetics (2008),2001,Author21; Author98,Asia,290,208,Government,Cardiology,Neutral,82
+719,Study on Pharmacology (2012),2021,Author45; Author73,North America,37,261,Government,Pharmacology,Failure,224
+720,Study on Genetics (2011),2016,Author38; Author52,North America,23,252,NGO,Cardiology,Success,229
+721,Study on Oncology (2021),2007,Author46; Author95,North America,404,80,Private,Public Health,Failure,324
+722,Study on Cardiology (2015),2020,Author23; Author87,North America,213,93,NGO,Oncology,Success,120
+723,Study on Oncology (2019),2007,Author37; Author60,Europe,278,108,Government,Neurology,Success,170
+724,Study on Pharmacology (2010),2001,Author37; Author63,Asia,401,125,Government,Oncology,Neutral,276
+725,Study on Pharmacology (2007),2003,Author32; Author85,Africa,52,26,Government,Public Health,Neutral,26
+726,Study on Genetics (2002),2013,Author20; Author62,North America,63,219,NGO,Oncology,Failure,156
+727,Study on Genetics (2014),2010,Author32; Author53,Africa,144,401,NGO,Pharmacology,Failure,257
+728,Study on Genetics (2009),2022,Author6; Author54,Europe,326,17,Government,Cardiology,Failure,309
+729,Study on Genetics (2013),2015,Author15; Author89,Asia,89,483,Government,Public Health,Neutral,394
+730,Study on Oncology (2004),2003,Author15; Author52,South America,53,148,Private,Neurology,Neutral,95
+731,Study on Oncology (2001),2021,Author34; Author81,South America,345,496,Private,Genetics,Neutral,151
+732,Study on Neurology (2015),2004,Author1; Author72,South America,486,221,Government,Neurology,Neutral,265
+733,Study on Oncology (2003),2000,Author40; Author63,Oceania,463,123,Private,Pharmacology,Neutral,340
+734,Study on Cardiology (2017),2017,Author9; Author72,South America,209,390,Government,Genetics,Failure,181
+735,Study on Cardiology (2012),2005,Author46; Author62,South America,168,353,Government,Oncology,Success,185
+736,Study on Public Health (2011),2013,Author21; Author54,Asia,127,113,Government,Oncology,Failure,14
+737,Study on Genetics (2023),2020,Author2; Author60,North America,136,397,Private,Neurology,Failure,261
+738,Study on Genetics (2017),2015,Author38; Author96,South America,387,114,Government,Public Health,Failure,273
+739,Study on Public Health (2018),2015,Author10; Author100,Oceania,155,43,Government,Oncology,Neutral,112
+740,Study on Genetics (2023),2020,Author8; Author84,North America,236,100,Private,Public Health,Neutral,136
+741,Study on Cardiology (2013),2006,Author24; Author55,Africa,330,484,Government,Neurology,Neutral,154
+742,Study on Genetics (2003),2009,Author24; Author96,North America,74,498,Private,Public Health,Neutral,424
+743,Study on Public Health (2019),2010,Author43; Author76,Oceania,77,234,Government,Pharmacology,Neutral,157
+744,Study on Public Health (2008),2009,Author38; Author57,Oceania,279,453,Private,Genetics,Failure,174
+745,Study on Oncology (2022),2020,Author22; Author70,Africa,439,325,NGO,Neurology,Success,114
+746,Study on Neurology (2006),2001,Author21; Author59,North America,97,260,Government,Genetics,Neutral,163
+747,Study on Public Health (2014),2002,Author11; Author97,Oceania,24,362,Private,Public Health,Success,338
+748,Study on Cardiology (2011),2020,Author28; Author91,Africa,27,176,NGO,Cardiology,Neutral,149
+749,Study on Oncology (2021),2018,Author32; Author92,North America,349,453,Government,Pharmacology,Success,104
+750,Study on Neurology (2017),2007,Author21; Author62,Oceania,192,244,Private,Public Health,Failure,52
+751,Study on Genetics (2011),2017,Author46; Author86,North America,450,464,Private,Neurology,Neutral,14
+752,Study on Oncology (2012),2023,Author45; Author90,Asia,478,136,NGO,Public Health,Failure,342
+753,Study on Neurology (2006),2023,Author23; Author65,Africa,176,228,Government,Cardiology,Neutral,52
+754,Study on Oncology (2014),2001,Author43; Author88,North America,452,217,Private,Oncology,Success,235
+755,Study on Oncology (2021),2005,Author12; Author75,Asia,253,407,NGO,Public Health,Failure,154
+756,Study on Cardiology (2020),2013,Author20; Author97,Oceania,249,31,NGO,Genetics,Neutral,218
+757,Study on Genetics (2019),2005,Author45; Author69,Asia,455,321,Private,Neurology,Failure,134
+758,Study on Oncology (2001),2001,Author9; Author62,Africa,286,386,Government,Cardiology,Failure,100
+759,Study on Neurology (2007),2012,Author47; Author51,North America,488,432,NGO,Oncology,Success,56
+760,Study on Cardiology (2018),2015,Author45; Author87,Asia,149,204,Government,Genetics,Failure,55
+761,Study on Cardiology (2002),2005,Author26; Author100,South America,290,378,Private,Public Health,Neutral,88
+762,Study on Pharmacology (2006),2023,Author37; Author53,South America,237,170,Private,Genetics,Neutral,67
+763,Study on Pharmacology (2006),2009,Author12; Author89,South America,79,211,Private,Oncology,Failure,132
+764,Study on Cardiology (2010),2001,Author21; Author90,Oceania,495,323,Private,Public Health,Failure,172
+765,Study on Cardiology (2019),2000,Author15; Author91,North America,367,490,NGO,Public Health,Neutral,123
+766,Study on Oncology (2008),2009,Author37; Author57,South America,286,390,NGO,Pharmacology,Failure,104
+767,Study on Cardiology (2004),2018,Author32; Author60,Europe,100,302,Government,Genetics,Success,202
+768,Study on Pharmacology (2008),2019,Author22; Author98,Africa,312,314,Government,Genetics,Success,2
+769,Study on Cardiology (2003),2003,Author5; Author66,Europe,315,284,Private,Oncology,Failure,31
+770,Study on Genetics (2000),2010,Author23; Author71,Europe,243,278,Government,Oncology,Neutral,35
+771,Study on Cardiology (2000),2009,Author11; Author91,Oceania,333,338,Private,Cardiology,Success,5
+772,Study on Neurology (2007),2014,Author6; Author96,South America,393,458,NGO,Public Health,Failure,65
+773,Study on Pharmacology (2010),2020,Author43; Author91,Africa,335,370,NGO,Public Health,Failure,35
+774,Study on Oncology (2005),2017,Author47; Author72,Asia,459,412,Private,Genetics,Failure,47
+775,Study on Neurology (2001),2016,Author29; Author51,Oceania,298,29,Private,Pharmacology,Success,269
+776,Study on Cardiology (2023),2015,Author17; Author64,Europe,232,276,NGO,Oncology,Neutral,44
+777,Study on Public Health (2016),2004,Author16; Author95,Asia,278,65,Government,Genetics,Success,213
+778,Study on Oncology (2023),2016,Author5; Author73,Oceania,337,241,Government,Cardiology,Neutral,96
+779,Study on Oncology (2015),2014,Author17; Author57,Oceania,337,243,Private,Oncology,Neutral,94
+780,Study on Public Health (2011),2008,Author47; Author51,Oceania,283,433,NGO,Neurology,Failure,150
+781,Study on Pharmacology (2018),2006,Author4; Author75,Asia,168,459,Government,Cardiology,Neutral,291
+782,Study on Oncology (2014),2003,Author29; Author97,North America,475,31,Government,Neurology,Neutral,444
+783,Study on Pharmacology (2007),2010,Author27; Author61,Africa,187,459,NGO,Cardiology,Neutral,272
+784,Study on Pharmacology (2001),2005,Author27; Author82,Africa,256,135,Private,Pharmacology,Failure,121
+785,Study on Genetics (2021),2023,Author25; Author73,Europe,286,275,NGO,Public Health,Success,11
+786,Study on Pharmacology (2009),2014,Author35; Author75,North America,126,285,NGO,Oncology,Failure,159
+787,Study on Public Health (2020),2020,Author7; Author81,North America,422,212,Government,Cardiology,Neutral,210
+788,Study on Oncology (2001),2008,Author37; Author92,North America,55,386,Government,Public Health,Neutral,331
+789,Study on Public Health (2012),2022,Author49; Author94,Africa,236,30,Government,Genetics,Failure,206
+790,Study on Public Health (2021),2005,Author15; Author61,Africa,167,295,Government,Public Health,Failure,128
+791,Study on Oncology (2015),2000,Author29; Author55,South America,197,208,NGO,Neurology,Neutral,11
+792,Study on Genetics (2014),2023,Author3; Author69,Africa,221,274,Private,Genetics,Neutral,53
+793,Study on Oncology (2002),2010,Author2; Author71,Africa,143,401,NGO,Pharmacology,Neutral,258
+794,Study on Neurology (2019),2009,Author17; Author57,North America,89,332,Private,Pharmacology,Failure,243
+795,Study on Cardiology (2002),2018,Author5; Author72,Asia,165,35,Private,Neurology,Failure,130
+796,Study on Cardiology (2008),2021,Author11; Author75,Europe,15,107,Government,Genetics,Success,92
+797,Study on Pharmacology (2020),2006,Author11; Author97,Oceania,10,159,NGO,Public Health,Neutral,149
+798,Study on Pharmacology (2017),2005,Author5; Author86,Oceania,277,235,Government,Neurology,Success,42
+799,Study on Genetics (2010),2019,Author6; Author72,Oceania,427,213,Private,Public Health,Failure,214
+800,Study on Public Health (2019),2020,Author39; Author90,Asia,398,462,NGO,Genetics,Neutral,64
+801,Study on Pharmacology (2009),2012,Author31; Author96,Europe,444,165,NGO,Pharmacology,Neutral,279
+802,Study on Public Health (2016),2013,Author2; Author78,South America,79,406,Government,Public Health,Success,327
+803,Study on Pharmacology (2013),2016,Author42; Author61,Oceania,186,433,Government,Public Health,Neutral,247
+804,Study on Oncology (2022),2010,Author39; Author78,Africa,156,156,NGO,Pharmacology,Failure,0
+805,Study on Oncology (2020),2002,Author11; Author54,Europe,250,246,Government,Neurology,Success,4
+806,Study on Genetics (2017),2012,Author7; Author72,Europe,283,95,Government,Cardiology,Success,188
+807,Study on Genetics (2006),2021,Author14; Author63,Europe,14,226,Private,Public Health,Success,212
+808,Study on Public Health (2014),2003,Author27; Author95,Europe,362,160,NGO,Oncology,Success,202
+809,Study on Cardiology (2013),2005,Author36; Author97,Africa,482,323,NGO,Oncology,Neutral,159
+810,Study on Neurology (2014),2004,Author47; Author85,Asia,261,480,Private,Neurology,Failure,219
+811,Study on Public Health (2013),2015,Author17; Author93,Europe,494,37,Government,Public Health,Success,457
+812,Study on Genetics (2003),2010,Author19; Author70,North America,396,363,NGO,Public Health,Failure,33
+813,Study on Neurology (2013),2007,Author16; Author57,Europe,254,274,Government,Cardiology,Failure,20
+814,Study on Neurology (2021),2000,Author4; Author76,Oceania,163,472,Private,Genetics,Failure,309
+815,Study on Neurology (2011),2008,Author37; Author86,Africa,14,82,Government,Cardiology,Success,68
+816,Study on Cardiology (2021),2012,Author32; Author60,North America,402,247,Government,Oncology,Success,155
+817,Study on Public Health (2002),2007,Author4; Author74,Africa,230,434,NGO,Oncology,Neutral,204
+818,Study on Oncology (2002),2014,Author1; Author78,South America,418,340,Private,Genetics,Success,78
+819,Study on Oncology (2013),2008,Author6; Author69,Oceania,159,241,Private,Oncology,Success,82
+820,Study on Oncology (2023),2010,Author43; Author91,Africa,315,56,NGO,Oncology,Failure,259
+821,Study on Genetics (2011),2009,Author39; Author81,North America,128,379,Private,Public Health,Failure,251
+822,Study on Cardiology (2017),2018,Author13; Author57,Asia,417,266,Government,Genetics,Failure,151
+823,Study on Oncology (2018),2023,Author2; Author64,Oceania,13,67,NGO,Oncology,Neutral,54
+824,Study on Pharmacology (2017),2018,Author11; Author91,North America,290,102,Private,Cardiology,Success,188
+825,Study on Neurology (2021),2000,Author19; Author56,Asia,201,408,Government,Public Health,Success,207
+826,Study on Oncology (2013),2008,Author31; Author58,North America,106,309,NGO,Pharmacology,Neutral,203
+827,Study on Neurology (2021),2020,Author20; Author76,Europe,220,490,Government,Genetics,Success,270
+828,Study on Public Health (2023),2011,Author31; Author82,Oceania,461,467,Private,Neurology,Success,6
+829,Study on Oncology (2009),2022,Author43; Author67,Africa,297,366,NGO,Cardiology,Failure,69
+830,Study on Pharmacology (2009),2007,Author6; Author92,South America,233,289,NGO,Neurology,Failure,56
+831,Study on Neurology (2003),2001,Author35; Author75,Asia,212,79,Government,Pharmacology,Success,133
+832,Study on Pharmacology (2016),2021,Author12; Author74,Asia,137,211,Government,Pharmacology,Neutral,74
+833,Study on Cardiology (2004),2003,Author25; Author74,Europe,93,221,Private,Oncology,Success,128
+834,Study on Genetics (2015),2014,Author12; Author79,Oceania,376,175,NGO,Oncology,Success,201
+835,Study on Cardiology (2003),2009,Author3; Author67,Oceania,387,240,Government,Genetics,Neutral,147
+836,Study on Neurology (2017),2005,Author29; Author80,Europe,340,22,NGO,Pharmacology,Success,318
+837,Study on Neurology (2003),2012,Author17; Author65,North America,209,101,Private,Public Health,Failure,108
+838,Study on Neurology (2018),2021,Author18; Author87,Asia,434,242,Private,Public Health,Failure,192
+839,Study on Cardiology (2013),2016,Author4; Author60,Africa,203,312,Private,Cardiology,Failure,109
+840,Study on Pharmacology (2019),2022,Author49; Author95,North America,122,469,Private,Neurology,Failure,347
+841,Study on Pharmacology (2021),2009,Author43; Author57,Europe,144,374,Private,Genetics,Success,230
+842,Study on Genetics (2017),2022,Author6; Author93,Asia,50,468,NGO,Public Health,Neutral,418
+843,Study on Oncology (2019),2003,Author23; Author85,South America,226,113,NGO,Public Health,Failure,113
+844,Study on Genetics (2022),2020,Author27; Author99,South America,330,461,Private,Pharmacology,Success,131
+845,Study on Neurology (2000),2009,Author38; Author65,Asia,132,242,Government,Neurology,Neutral,110
+846,Study on Cardiology (2008),2011,Author36; Author54,Africa,274,56,Government,Pharmacology,Neutral,218
+847,Study on Genetics (2009),2019,Author25; Author84,Oceania,401,138,Private,Neurology,Neutral,263
+848,Study on Neurology (2011),2007,Author27; Author85,Asia,419,175,NGO,Pharmacology,Neutral,244
+849,Study on Oncology (2005),2007,Author44; Author81,Oceania,475,364,NGO,Pharmacology,Success,111
+850,Study on Cardiology (2018),2004,Author37; Author66,Africa,323,342,Government,Oncology,Neutral,19
+851,Study on Genetics (2012),2015,Author31; Author70,Europe,423,474,Government,Oncology,Success,51
+852,Study on Oncology (2004),2004,Author6; Author76,Africa,365,374,NGO,Public Health,Failure,9
+853,Study on Genetics (2020),2014,Author46; Author53,Africa,360,417,Government,Oncology,Failure,57
+854,Study on Oncology (2002),2023,Author33; Author87,Asia,149,93,Private,Public Health,Success,56
+855,Study on Genetics (2016),2019,Author34; Author87,Asia,155,377,Private,Public Health,Success,222
+856,Study on Cardiology (2012),2011,Author44; Author90,South America,342,385,Government,Neurology,Neutral,43
+857,Study on Public Health (2014),2013,Author10; Author58,Europe,390,73,Private,Public Health,Neutral,317
+858,Study on Neurology (2005),2022,Author49; Author79,North America,282,56,Government,Public Health,Success,226
+859,Study on Neurology (2009),2017,Author12; Author61,Asia,424,68,NGO,Public Health,Neutral,356
+860,Study on Genetics (2010),2015,Author14; Author63,Europe,147,371,Private,Oncology,Success,224
+861,Study on Pharmacology (2019),2017,Author9; Author53,Europe,221,240,Government,Oncology,Neutral,19
+862,Study on Oncology (2001),2021,Author28; Author56,Oceania,106,334,Private,Cardiology,Success,228
+863,Study on Cardiology (2005),2006,Author44; Author78,Oceania,446,195,Private,Pharmacology,Success,251
+864,Study on Pharmacology (2001),2007,Author13; Author91,Oceania,45,53,NGO,Genetics,Neutral,8
+865,Study on Genetics (2002),2021,Author10; Author89,South America,103,278,NGO,Neurology,Success,175
+866,Study on Neurology (2014),2019,Author17; Author71,Asia,79,372,NGO,Genetics,Success,293
+867,Study on Genetics (2013),2002,Author47; Author55,Asia,158,206,Government,Cardiology,Failure,48
+868,Study on Public Health (2019),2016,Author6; Author75,Europe,66,382,NGO,Public Health,Success,316
+869,Study on Public Health (2013),2014,Author36; Author76,Oceania,336,415,NGO,Public Health,Neutral,79
+870,Study on Neurology (2006),2016,Author36; Author71,Oceania,243,271,Private,Cardiology,Failure,28
+871,Study on Pharmacology (2003),2022,Author18; Author84,Asia,326,323,NGO,Neurology,Neutral,3
+872,Study on Neurology (2013),2011,Author30; Author51,South America,241,496,NGO,Genetics,Failure,255
+873,Study on Oncology (2009),2002,Author45; Author90,South America,149,91,Private,Public Health,Neutral,58
+874,Study on Genetics (2021),2018,Author38; Author84,South America,368,203,Private,Public Health,Failure,165
+875,Study on Pharmacology (2015),2003,Author27; Author58,Asia,328,291,Private,Oncology,Neutral,37
+876,Study on Pharmacology (2021),2001,Author27; Author60,Asia,261,204,NGO,Pharmacology,Success,57
+877,Study on Neurology (2001),2017,Author10; Author87,South America,106,32,Private,Genetics,Success,74
+878,Study on Cardiology (2012),2016,Author38; Author88,Africa,174,403,Government,Public Health,Neutral,229
+879,Study on Pharmacology (2001),2006,Author49; Author57,North America,19,97,NGO,Genetics,Failure,78
+880,Study on Oncology (2006),2018,Author7; Author87,Europe,87,477,Private,Pharmacology,Failure,390
+881,Study on Neurology (2006),2017,Author50; Author57,Oceania,35,181,Government,Genetics,Success,146
+882,Study on Cardiology (2008),2004,Author19; Author85,Africa,283,299,NGO,Pharmacology,Success,16
+883,Study on Neurology (2010),2005,Author23; Author77,North America,21,456,Private,Pharmacology,Success,435
+884,Study on Oncology (2000),2010,Author17; Author75,Asia,105,347,Private,Public Health,Failure,242
+885,Study on Public Health (2023),2016,Author42; Author82,Europe,62,451,NGO,Public Health,Failure,389
+886,Study on Public Health (2005),2014,Author37; Author89,Africa,154,86,NGO,Pharmacology,Success,68
+887,Study on Cardiology (2012),2003,Author31; Author53,Europe,147,93,Private,Cardiology,Success,54
+888,Study on Pharmacology (2022),2021,Author12; Author68,Asia,74,454,Private,Pharmacology,Failure,380
+889,Study on Cardiology (2016),2006,Author26; Author60,Oceania,376,84,Private,Oncology,Failure,292
+890,Study on Pharmacology (2021),2022,Author40; Author89,Oceania,234,101,NGO,Public Health,Failure,133
+891,Study on Neurology (2002),2018,Author44; Author95,North America,382,403,Private,Neurology,Neutral,21
+892,Study on Public Health (2023),2015,Author26; Author53,Oceania,14,374,Government,Public Health,Success,360
+893,Study on Oncology (2013),2002,Author26; Author72,North America,129,36,Private,Pharmacology,Success,93
+894,Study on Oncology (2014),2016,Author45; Author66,North America,56,224,Government,Public Health,Failure,168
+895,Study on Oncology (2010),2014,Author4; Author98,Africa,87,167,NGO,Pharmacology,Failure,80
+896,Study on Pharmacology (2013),2001,Author31; Author68,Oceania,17,168,Private,Genetics,Neutral,151
+897,Study on Pharmacology (2012),2014,Author24; Author52,North America,262,383,NGO,Neurology,Failure,121
+898,Study on Genetics (2020),2004,Author22; Author70,Africa,121,403,Private,Neurology,Failure,282
+899,Study on Public Health (2009),2016,Author20; Author68,Africa,185,238,Private,Neurology,Neutral,53
+900,Study on Oncology (2012),2013,Author32; Author95,South America,225,157,Private,Oncology,Neutral,68
+901,Study on Oncology (2010),2014,Author44; Author57,Africa,169,330,Government,Oncology,Success,161
+902,Study on Cardiology (2019),2018,Author15; Author59,Europe,412,102,NGO,Pharmacology,Success,310
+903,Study on Public Health (2022),2001,Author20; Author98,North America,419,70,NGO,Oncology,Neutral,349
+904,Study on Neurology (2002),2017,Author29; Author100,Africa,265,470,Private,Cardiology,Failure,205
+905,Study on Public Health (2003),2014,Author21; Author68,Asia,200,77,Private,Neurology,Success,123
+906,Study on Cardiology (2013),2021,Author47; Author77,Africa,247,113,Private,Neurology,Success,134
+907,Study on Pharmacology (2012),2009,Author39; Author92,Africa,366,11,Government,Genetics,Failure,355
+908,Study on Pharmacology (2002),2023,Author6; Author63,South America,415,328,Government,Pharmacology,Failure,87
+909,Study on Public Health (2009),2000,Author29; Author64,Oceania,26,401,NGO,Oncology,Failure,375
+910,Study on Genetics (2010),2012,Author27; Author98,Europe,179,139,NGO,Genetics,Failure,40
+911,Study on Cardiology (2010),2008,Author32; Author99,Asia,51,16,Government,Neurology,Neutral,35
+912,Study on Cardiology (2002),2000,Author34; Author74,South America,441,244,Government,Public Health,Neutral,197
+913,Study on Pharmacology (2020),2023,Author4; Author83,Europe,394,264,Private,Oncology,Failure,130
+914,Study on Oncology (2016),2006,Author11; Author55,Africa,497,447,NGO,Public Health,Success,50
+915,Study on Pharmacology (2006),2018,Author20; Author96,Oceania,84,265,NGO,Neurology,Failure,181
+916,Study on Neurology (2011),2002,Author33; Author76,Asia,38,288,NGO,Neurology,Success,250
+917,Study on Genetics (2020),2001,Author9; Author100,Europe,146,423,Private,Public Health,Success,277
+918,Study on Cardiology (2007),2013,Author34; Author87,South America,407,12,Government,Neurology,Neutral,395
+919,Study on Oncology (2004),2011,Author2; Author62,Africa,210,321,Private,Oncology,Neutral,111
+920,Study on Neurology (2006),2022,Author13; Author63,Africa,46,461,Private,Genetics,Success,415
+921,Study on Cardiology (2019),2002,Author4; Author66,North America,288,262,NGO,Cardiology,Success,26
+922,Study on Cardiology (2020),2017,Author3; Author80,South America,250,131,Private,Cardiology,Failure,119
+923,Study on Oncology (2005),2001,Author4; Author74,Asia,102,121,Government,Cardiology,Failure,19
+924,Study on Genetics (2015),2002,Author46; Author63,Africa,108,311,Private,Genetics,Failure,203
+925,Study on Public Health (2018),2015,Author18; Author74,North America,468,347,Private,Neurology,Success,121
+926,Study on Pharmacology (2014),2001,Author30; Author83,Oceania,440,253,Government,Pharmacology,Failure,187
+927,Study on Genetics (2018),2009,Author26; Author91,Europe,138,242,Private,Oncology,Success,104
+928,Study on Genetics (2020),2013,Author8; Author94,Africa,428,219,Government,Genetics,Failure,209
+929,Study on Pharmacology (2010),2005,Author2; Author66,Oceania,205,236,Private,Oncology,Success,31
+930,Study on Genetics (2010),2004,Author24; Author82,Europe,434,50,NGO,Neurology,Neutral,384
+931,Study on Cardiology (2014),2020,Author39; Author79,Africa,16,317,Government,Oncology,Neutral,301
+932,Study on Oncology (2015),2023,Author12; Author81,Europe,72,317,NGO,Neurology,Success,245
+933,Study on Public Health (2020),2020,Author38; Author86,South America,403,13,Private,Cardiology,Neutral,390
+934,Study on Neurology (2008),2013,Author23; Author73,Europe,375,135,Government,Oncology,Success,240
+935,Study on Pharmacology (2001),2011,Author11; Author67,Europe,137,461,Private,Pharmacology,Neutral,324
+936,Study on Neurology (2016),2012,Author48; Author95,Africa,207,290,NGO,Neurology,Neutral,83
+937,Study on Oncology (2009),2014,Author6; Author69,Africa,404,152,Private,Oncology,Neutral,252
+938,Study on Public Health (2014),2012,Author2; Author75,Oceania,236,327,Private,Public Health,Neutral,91
+939,Study on Oncology (2001),2012,Author4; Author61,Europe,136,331,Private,Genetics,Failure,195
+940,Study on Neurology (2009),2002,Author37; Author100,Oceania,387,295,NGO,Public Health,Failure,92
+941,Study on Oncology (2020),2021,Author14; Author65,Oceania,27,429,NGO,Pharmacology,Failure,402
+942,Study on Oncology (2019),2021,Author42; Author65,South America,111,432,Government,Pharmacology,Neutral,321
+943,Study on Pharmacology (2016),2017,Author44; Author64,Asia,245,116,Private,Public Health,Neutral,129
+944,Study on Public Health (2014),2004,Author18; Author92,North America,386,35,Private,Neurology,Neutral,351
+945,Study on Pharmacology (2017),2020,Author27; Author83,Europe,404,104,Government,Oncology,Failure,300
+946,Study on Genetics (2001),2011,Author2; Author100,South America,58,85,Private,Genetics,Neutral,27
+947,Study on Public Health (2018),2003,Author50; Author94,Europe,276,38,Private,Public Health,Neutral,238
+948,Study on Genetics (2006),2005,Author1; Author81,North America,350,344,Private,Pharmacology,Failure,6
+949,Study on Neurology (2019),2017,Author9; Author92,Asia,116,188,Private,Oncology,Failure,72
+950,Study on Public Health (2016),2012,Author12; Author89,Asia,252,28,Private,Neurology,Success,224
+951,Study on Cardiology (2001),2016,Author1; Author65,Europe,209,84,NGO,Public Health,Failure,125
+952,Study on Public Health (2003),2004,Author17; Author89,North America,358,447,NGO,Pharmacology,Neutral,89
+953,Study on Neurology (2022),2023,Author20; Author96,Oceania,169,26,NGO,Public Health,Neutral,143
+954,Study on Oncology (2016),2007,Author46; Author92,Europe,489,351,Government,Neurology,Success,138
+955,Study on Genetics (2005),2000,Author18; Author78,Africa,175,305,Government,Pharmacology,Neutral,130
+956,Study on Oncology (2007),2000,Author25; Author73,Asia,91,439,NGO,Oncology,Failure,348
+957,Study on Genetics (2014),2009,Author30; Author67,South America,332,318,Government,Public Health,Failure,14
+958,Study on Public Health (2016),2014,Author14; Author80,South America,382,162,NGO,Oncology,Neutral,220
+959,Study on Pharmacology (2019),2021,Author20; Author94,South America,31,179,Private,Genetics,Success,148
+960,Study on Cardiology (2011),2023,Author34; Author90,North America,391,481,Private,Genetics,Neutral,90
+961,Study on Neurology (2009),2017,Author26; Author88,North America,489,54,Private,Cardiology,Neutral,435
+962,Study on Public Health (2013),2013,Author7; Author51,Oceania,291,35,NGO,Neurology,Neutral,256
+963,Study on Neurology (2021),2017,Author33; Author93,Asia,276,65,Government,Public Health,Neutral,211
+964,Study on Pharmacology (2001),2012,Author24; Author86,North America,72,223,NGO,Pharmacology,Failure,151
+965,Study on Genetics (2020),2007,Author42; Author89,Oceania,139,101,Government,Genetics,Neutral,38
+966,Study on Neurology (2002),2007,Author39; Author69,Africa,256,92,Government,Neurology,Failure,164
+967,Study on Neurology (2003),2014,Author20; Author94,Oceania,336,354,Private,Cardiology,Neutral,18
+968,Study on Pharmacology (2021),2011,Author7; Author81,Asia,162,155,Private,Pharmacology,Failure,7
+969,Study on Public Health (2009),2004,Author5; Author72,Oceania,111,322,NGO,Neurology,Success,211
+970,Study on Neurology (2023),2008,Author18; Author91,Asia,194,348,NGO,Neurology,Failure,154
+971,Study on Genetics (2019),2006,Author21; Author68,Africa,464,364,Private,Public Health,Success,100
+972,Study on Cardiology (2010),2023,Author17; Author92,Africa,36,368,NGO,Cardiology,Success,332
+973,Study on Oncology (2018),2003,Author46; Author92,Africa,452,314,Private,Public Health,Neutral,138
+974,Study on Genetics (2004),2001,Author20; Author63,Europe,351,303,NGO,Genetics,Failure,48
+975,Study on Neurology (2009),2021,Author10; Author84,South America,121,413,Government,Oncology,Failure,292
+976,Study on Genetics (2022),2013,Author49; Author66,Oceania,67,297,NGO,Pharmacology,Neutral,230
+977,Study on Genetics (2012),2019,Author4; Author89,South America,130,100,Private,Cardiology,Neutral,30
+978,Study on Cardiology (2019),2000,Author26; Author93,Asia,334,243,NGO,Neurology,Neutral,91
+979,Study on Genetics (2002),2007,Author21; Author94,Africa,232,393,Government,Neurology,Success,161
+980,Study on Neurology (2017),2006,Author9; Author97,Oceania,176,306,Government,Oncology,Neutral,130
+981,Study on Public Health (2020),2002,Author2; Author92,North America,17,194,Government,Neurology,Neutral,177
+982,Study on Neurology (2004),2003,Author32; Author69,Africa,95,486,Private,Pharmacology,Failure,391
+983,Study on Genetics (2022),2019,Author17; Author77,Asia,416,28,NGO,Public Health,Success,388
+984,Study on Genetics (2021),2001,Author26; Author75,South America,151,57,Private,Cardiology,Success,94
+985,Study on Pharmacology (2002),2014,Author48; Author53,Europe,309,403,Private,Pharmacology,Neutral,94
+986,Study on Genetics (2021),2019,Author38; Author96,Africa,71,163,Private,Genetics,Neutral,92
+987,Study on Public Health (2016),2021,Author37; Author63,South America,212,175,NGO,Oncology,Failure,37
+988,Study on Neurology (2000),2022,Author22; Author97,Asia,414,198,Private,Genetics,Neutral,216
+989,Study on Neurology (2009),2001,Author46; Author65,Asia,134,469,NGO,Pharmacology,Failure,335
+990,Study on Cardiology (2006),2007,Author44; Author85,South America,14,204,Government,Oncology,Neutral,190
+991,Study on Neurology (2015),2023,Author41; Author81,South America,31,429,NGO,Pharmacology,Success,398
+992,Study on Cardiology (2007),2001,Author43; Author73,Africa,307,44,NGO,Neurology,Success,263
+993,Study on Cardiology (2004),2012,Author33; Author70,North America,411,398,Private,Neurology,Success,13
+994,Study on Oncology (2009),2014,Author11; Author93,Africa,363,228,Government,Oncology,Neutral,135
+995,Study on Oncology (2016),2007,Author36; Author62,Europe,253,441,NGO,Pharmacology,Neutral,188
+996,Study on Pharmacology (2023),2017,Author19; Author57,South America,362,291,NGO,Pharmacology,Failure,71
+997,Study on Pharmacology (2001),2006,Author31; Author59,Europe,315,43,Private,Public Health,Success,272
+998,Study on Genetics (2010),2001,Author48; Author67,Europe,89,159,Government,Public Health,Failure,70
+999,Study on Pharmacology (2004),2004,Author47; Author86,North America,200,251,Private,Cardiology,Neutral,51
+1000,Study on Pharmacology (2012),2016,Author49; Author62,Africa,404,78,Private,Neurology,Failure,326

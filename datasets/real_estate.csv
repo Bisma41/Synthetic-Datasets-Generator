@@ -1,0 +1,401 @@
+City,Year,Property Type,Square Footage,Sale Price ($),Property Age,Neighborhood
+Tokyo,2018,House,2570,469243.15,92,Suburban
+New York,2018,House,4159,432349.89,92,Rural
+Tokyo,2019,House,798,459690.54,70,Urban
+New York,2015,Villa,3624,903946.84,17,Urban
+London,2022,Apartment,3223,628842.04,52,Suburban
+New York,2022,Apartment,852,548922.01,93,Rural
+Sydney,2021,House,4161,305086.25,83,Suburban
+London,2022,Villa,1804,816204.3,20,Rural
+Tokyo,2019,Apartment,1942,264382.8,27,Suburban
+Mumbai,2018,House,4741,817128.11,31,Urban
+Tokyo,2022,House,4866,627236.48,5,Suburban
+Sydney,2015,House,2885,92571.8,21,Rural
+Mumbai,2016,House,2632,618982.79,11,Rural
+New York,2019,Villa,4185,676143.18,27,Suburban
+New York,2023,Apartment,811,341137.56,96,Urban
+Sydney,2018,House,1839,623476.45,37,Rural
+Tokyo,2020,Villa,4357,890537.96,79,Urban
+New York,2018,Apartment,4001,948317.0,45,Urban
+London,2015,Villa,1004,577763.09,85,Suburban
+Mumbai,2015,House,3589,381195.7,38,Suburban
+Tokyo,2023,Villa,3258,596017.4,55,Rural
+Mumbai,2023,Villa,2656,217344.29,95,Suburban
+Tokyo,2021,Apartment,3162,916211.84,83,Suburban
+Mumbai,2021,House,2778,88761.44,73,Suburban
+Sydney,2015,Villa,3060,932142.84,38,Suburban
+London,2019,Apartment,2469,960254.48,1,Rural
+Tokyo,2023,House,836,130662.01,82,Rural
+Sydney,2017,Villa,4157,704998.04,85,Urban
+Sydney,2018,Villa,3893,873285.12,94,Suburban
+New York,2019,House,3923,800795.04,3,Suburban
+Tokyo,2021,Villa,3246,574406.62,71,Suburban
+London,2018,Villa,3985,717011.82,17,Suburban
+Mumbai,2020,House,4638,845623.99,52,Rural
+Sydney,2022,Apartment,965,156509.65,52,Rural
+Sydney,2023,Apartment,4748,763880.97,41,Rural
+New York,2015,Apartment,4014,537066.09,38,Urban
+London,2018,Villa,3650,106184.34,93,Urban
+Mumbai,2019,Apartment,2406,591873.12,44,Suburban
+Mumbai,2015,Apartment,2204,414760.95,35,Rural
+London,2023,Villa,4194,968803.71,19,Suburban
+Tokyo,2017,House,948,82279.39,73,Urban
+London,2023,Villa,1343,917320.2,65,Rural
+Mumbai,2023,House,2740,267799.69,62,Rural
+Mumbai,2023,Apartment,3069,978804.6,72,Suburban
+London,2023,Apartment,1921,971384.9,12,Urban
+Sydney,2017,Apartment,1641,520188.04,39,Rural
+New York,2019,House,3247,224680.35,54,Rural
+London,2021,House,1830,564273.37,18,Urban
+Sydney,2022,House,2718,779107.5,91,Rural
+New York,2023,Villa,1303,668911.73,37,Rural
+Sydney,2023,Apartment,4393,954811.86,25,Urban
+Mumbai,2022,House,1618,779399.62,43,Urban
+Tokyo,2020,Villa,1339,804663.08,75,Urban
+New York,2016,House,4955,220313.05,25,Rural
+London,2017,Villa,1080,683459.22,42,Urban
+Sydney,2017,House,2532,844895.55,83,Rural
+Sydney,2018,House,1426,840761.65,60,Urban
+London,2015,Apartment,1797,565104.64,52,Suburban
+London,2021,Apartment,3440,588876.0,32,Rural
+Mumbai,2023,Villa,1778,67022.12,28,Rural
+London,2015,Villa,3398,783700.84,96,Rural
+Tokyo,2016,House,2333,664727.9,90,Suburban
+Sydney,2022,Apartment,3296,141979.33,33,Rural
+Sydney,2023,Apartment,1515,489552.69,39,Urban
+Tokyo,2015,Apartment,788,731121.33,67,Urban
+New York,2019,House,1746,822984.28,40,Suburban
+Mumbai,2018,Villa,2720,835389.49,53,Rural
+London,2016,Apartment,2639,771004.84,85,Urban
+Tokyo,2019,Villa,2961,879028.75,49,Suburban
+Mumbai,2020,House,3412,522153.65,79,Urban
+Tokyo,2015,Apartment,4196,665453.09,94,Urban
+Sydney,2022,Villa,1287,463149.5,44,Suburban
+New York,2015,Apartment,1077,768622.79,48,Urban
+Sydney,2020,House,4127,146724.02,9,Suburban
+New York,2020,Apartment,4605,622764.04,35,Suburban
+Sydney,2018,House,3913,130835.11,90,Suburban
+London,2019,Apartment,1172,846369.42,22,Urban
+New York,2015,Villa,598,90838.93,26,Urban
+London,2023,Apartment,4350,505319.9,1,Suburban
+Mumbai,2018,Apartment,4155,786228.97,47,Rural
+Mumbai,2020,Villa,4391,111681.7,8,Rural
+Sydney,2015,House,4398,800755.63,68,Rural
+London,2016,Villa,4016,708078.38,93,Urban
+New York,2019,Apartment,1145,937025.45,43,Suburban
+London,2020,Villa,1395,558790.24,50,Urban
+Tokyo,2016,Villa,1545,304518.18,30,Rural
+Tokyo,2016,Villa,3413,75606.09,8,Suburban
+New York,2021,Apartment,1983,587906.02,41,Suburban
+Sydney,2019,Villa,3129,528443.2,39,Suburban
+London,2022,Apartment,4782,862876.35,66,Urban
+Sydney,2020,House,3298,819346.45,80,Urban
+Sydney,2021,Villa,673,71979.79,64,Rural
+London,2023,House,4428,551785.46,42,Urban
+Mumbai,2021,Villa,3134,771888.85,32,Suburban
+Sydney,2015,Villa,1831,413070.67,58,Urban
+Mumbai,2016,House,4672,198986.23,99,Suburban
+Sydney,2020,House,2455,623098.89,69,Rural
+London,2021,Villa,3379,838276.68,58,Rural
+London,2019,Apartment,3349,110629.21,39,Urban
+Mumbai,2022,House,3720,640158.39,11,Rural
+Sydney,2017,House,3394,934360.37,69,Urban
+New York,2021,Villa,3250,821649.26,79,Urban
+London,2020,Villa,3082,61716.11,20,Rural
+Tokyo,2019,Villa,1175,233058.09,13,Urban
+Tokyo,2017,Villa,2791,73927.68,25,Rural
+Sydney,2023,House,2209,315631.95,14,Rural
+New York,2015,Apartment,3034,131013.17,22,Suburban
+New York,2017,Apartment,1006,141311.89,83,Urban
+London,2017,House,1430,643765.03,68,Rural
+Tokyo,2023,Apartment,4818,919265.76,43,Rural
+Mumbai,2020,House,3960,513268.33,19,Rural
+London,2022,Apartment,3200,950629.88,72,Rural
+Sydney,2023,Villa,2347,537301.48,70,Suburban
+Sydney,2023,Apartment,1816,584344.81,73,Urban
+New York,2016,Apartment,2267,527384.43,70,Suburban
+Tokyo,2017,Villa,2880,411250.37,62,Rural
+London,2023,Villa,1523,410725.29,99,Suburban
+Tokyo,2016,Apartment,2205,192518.14,68,Suburban
+Mumbai,2021,Villa,2586,554434.07,11,Suburban
+Sydney,2017,Apartment,4877,575369.25,65,Rural
+Mumbai,2022,Villa,3167,427758.2,33,Urban
+London,2019,Apartment,3964,942733.71,98,Urban
+London,2017,House,3089,63819.0,60,Suburban
+Sydney,2023,Apartment,3246,895884.54,43,Urban
+Sydney,2019,House,2101,836747.7,87,Rural
+Mumbai,2018,Villa,4407,430518.11,24,Suburban
+Sydney,2020,Apartment,4136,994624.18,49,Suburban
+Sydney,2021,House,558,814019.48,89,Suburban
+New York,2020,Apartment,1610,307208.36,49,Rural
+Tokyo,2020,Apartment,2068,664694.02,9,Urban
+Tokyo,2020,House,1757,300241.28,74,Suburban
+London,2018,Apartment,2091,179179.81,93,Suburban
+Sydney,2021,House,2179,635331.0,81,Rural
+Tokyo,2015,Villa,2103,393727.26,70,Urban
+Sydney,2015,Apartment,2779,617976.61,53,Urban
+Tokyo,2016,Villa,1344,235893.71,86,Rural
+London,2023,Apartment,526,189119.6,20,Urban
+New York,2021,House,4803,691202.01,93,Rural
+New York,2022,Apartment,3217,954816.3,97,Rural
+Sydney,2016,Apartment,2170,873795.53,61,Rural
+Tokyo,2020,House,3392,914222.62,66,Rural
+New York,2019,Apartment,3055,115695.66,58,Rural
+Tokyo,2021,Villa,1409,285980.52,34,Rural
+New York,2015,Villa,4388,724647.78,61,Suburban
+Sydney,2018,House,832,854256.56,90,Urban
+London,2023,Apartment,3249,763411.87,45,Rural
+Sydney,2017,Apartment,4391,417706.94,14,Urban
+London,2021,Apartment,2272,60408.23,30,Urban
+New York,2021,Apartment,3211,788393.32,23,Urban
+London,2018,House,855,133750.27,5,Urban
+Mumbai,2022,Villa,3400,498204.66,20,Urban
+Tokyo,2023,House,4878,496663.52,28,Urban
+Tokyo,2020,Apartment,997,413478.8,71,Suburban
+Mumbai,2016,Villa,783,846925.87,5,Urban
+Tokyo,2021,Villa,3489,660813.71,82,Urban
+Sydney,2023,Villa,1744,820300.66,12,Urban
+London,2021,Apartment,4366,680414.68,92,Suburban
+London,2021,House,3180,952294.3,7,Suburban
+Mumbai,2015,Apartment,631,251367.61,99,Rural
+London,2019,Villa,1827,982721.21,92,Urban
+New York,2020,Villa,3583,705450.05,82,Rural
+Tokyo,2020,Villa,4439,548722.29,76,Rural
+Mumbai,2019,House,1934,103207.32,89,Urban
+New York,2019,House,3055,624521.14,40,Suburban
+Mumbai,2020,Apartment,2761,562474.52,72,Suburban
+Mumbai,2020,Apartment,987,531640.92,18,Suburban
+Mumbai,2022,House,1832,637981.51,75,Rural
+Tokyo,2017,Villa,4854,215254.48,25,Suburban
+New York,2016,Villa,4164,467277.47,75,Urban
+London,2021,Villa,1487,418316.18,43,Rural
+London,2020,Apartment,3350,288078.87,40,Suburban
+New York,2023,Apartment,3568,122480.91,16,Suburban
+New York,2017,House,1863,74794.2,7,Urban
+New York,2015,Villa,2900,536880.7,57,Urban
+Mumbai,2022,Apartment,2734,291353.04,57,Urban
+New York,2016,Apartment,1663,239604.32,27,Suburban
+New York,2019,House,4853,124225.63,12,Rural
+Mumbai,2018,House,1615,536138.38,31,Rural
+Tokyo,2020,Apartment,4949,210168.23,79,Rural
+Tokyo,2023,Villa,4859,823869.88,2,Suburban
+Sydney,2016,Apartment,4465,382376.47,2,Rural
+Mumbai,2020,Villa,2954,424410.44,55,Rural
+Tokyo,2018,House,944,655573.41,77,Suburban
+Sydney,2023,House,2796,278954.4,88,Rural
+Tokyo,2016,House,4714,497765.56,10,Suburban
+Mumbai,2019,Villa,532,496940.49,31,Suburban
+Mumbai,2021,House,3433,285113.23,13,Urban
+New York,2022,Villa,3246,225204.46,42,Urban
+Mumbai,2023,Villa,4087,421174.58,31,Urban
+Mumbai,2021,Apartment,2953,686542.75,89,Rural
+Sydney,2019,Apartment,3737,527817.44,1,Rural
+Mumbai,2017,Villa,2372,508905.06,9,Suburban
+Mumbai,2020,House,1216,644661.68,2,Rural
+London,2015,Villa,1676,657971.36,88,Suburban
+Sydney,2015,Villa,3352,159931.81,27,Rural
+Tokyo,2023,Villa,3324,367512.93,78,Urban
+London,2016,Apartment,3557,415255.44,80,Suburban
+London,2017,Villa,2272,284002.43,39,Suburban
+London,2015,Villa,2413,676954.59,51,Urban
+Sydney,2022,Apartment,1870,850871.18,44,Urban
+Sydney,2017,Apartment,3647,462748.43,94,Rural
+London,2016,Apartment,4431,491983.56,5,Suburban
+New York,2017,House,1720,429671.8,29,Rural
+Sydney,2018,Villa,3147,635148.11,76,Urban
+New York,2019,House,1101,655808.54,35,Rural
+New York,2016,Apartment,628,325868.94,50,Suburban
+Mumbai,2020,Villa,3954,105787.48,11,Rural
+Mumbai,2018,Villa,3953,678739.84,41,Urban
+London,2016,Villa,2669,609163.2,60,Rural
+London,2021,Apartment,3802,335065.43,55,Suburban
+Sydney,2016,Apartment,3896,992314.02,78,Suburban
+Mumbai,2021,Apartment,3977,64023.98,88,Urban
+Tokyo,2017,Apartment,1069,144852.02,46,Suburban
+New York,2019,Apartment,2921,184946.41,36,Urban
+Mumbai,2016,Villa,2231,400228.96,62,Urban
+New York,2022,Apartment,514,869416.2,50,Suburban
+Mumbai,2019,Villa,590,654214.66,81,Urban
+Tokyo,2022,House,3435,422420.55,4,Suburban
+London,2023,Apartment,3165,61365.4,20,Urban
+Tokyo,2022,House,4816,798467.39,65,Urban
+New York,2021,House,3792,360397.16,52,Rural
+Tokyo,2016,Villa,1405,60380.52,7,Suburban
+New York,2020,House,4245,986266.78,9,Suburban
+London,2018,Apartment,2682,566922.98,86,Rural
+New York,2015,House,1963,464805.45,61,Rural
+Mumbai,2017,House,2843,307719.72,66,Rural
+Mumbai,2020,House,3846,640118.76,61,Suburban
+Mumbai,2017,House,2754,427585.44,92,Rural
+London,2021,House,641,407273.23,83,Urban
+Sydney,2021,Villa,2973,789549.35,49,Suburban
+Sydney,2020,Apartment,4037,307353.44,7,Rural
+New York,2016,Villa,3004,637026.27,52,Urban
+Sydney,2015,Villa,524,110713.64,83,Urban
+Tokyo,2021,Villa,3566,168189.29,81,Suburban
+Tokyo,2021,Apartment,1885,239349.84,84,Suburban
+Tokyo,2017,House,4722,447004.88,77,Urban
+Mumbai,2023,House,3466,272531.05,99,Suburban
+Sydney,2017,Villa,3007,771239.38,55,Urban
+Sydney,2016,Apartment,2553,219909.39,69,Rural
+Sydney,2016,Apartment,2660,389643.31,80,Urban
+New York,2018,Apartment,1686,946586.37,21,Rural
+Mumbai,2016,Villa,2082,836704.42,67,Urban
+Mumbai,2023,House,590,459737.24,18,Suburban
+London,2015,Villa,4846,93119.2,66,Rural
+Mumbai,2017,House,681,291470.44,55,Urban
+New York,2019,Apartment,4211,783736.6,54,Rural
+London,2019,Villa,4092,938050.54,68,Suburban
+Sydney,2019,House,803,406189.69,77,Rural
+Mumbai,2022,Apartment,2621,435657.98,63,Rural
+Mumbai,2016,Apartment,4006,53844.97,3,Urban
+Sydney,2016,Villa,3900,473551.18,29,Rural
+Tokyo,2023,Apartment,3962,574827.82,89,Urban
+New York,2016,Villa,2038,144437.72,24,Suburban
+Mumbai,2023,Villa,4074,549155.12,24,Suburban
+Sydney,2017,Villa,1950,551893.09,72,Suburban
+Mumbai,2021,Villa,3889,471559.59,2,Suburban
+London,2019,House,4057,66113.9,54,Rural
+London,2016,Apartment,2945,717306.28,61,Suburban
+Mumbai,2022,Villa,599,191241.84,9,Suburban
+London,2022,Apartment,2446,228085.83,99,Suburban
+Tokyo,2015,Villa,2560,322330.49,51,Suburban
+Mumbai,2017,Apartment,2682,369047.62,42,Rural
+Mumbai,2022,Apartment,1991,222717.36,27,Urban
+Tokyo,2016,House,4399,540128.4,32,Suburban
+New York,2021,Villa,2326,60141.88,65,Urban
+Mumbai,2022,Apartment,3699,853763.52,54,Rural
+Tokyo,2020,Villa,2678,344017.74,91,Urban
+New York,2021,House,4099,841786.14,53,Urban
+New York,2016,Villa,4691,635019.53,65,Urban
+London,2016,House,4021,273443.29,54,Urban
+New York,2019,House,974,653630.6,75,Urban
+Sydney,2023,House,1308,189140.48,45,Suburban
+Tokyo,2015,Villa,1841,439753.48,35,Urban
+Sydney,2019,Apartment,2587,318730.88,74,Rural
+New York,2022,Apartment,2690,888040.88,77,Urban
+Mumbai,2021,Villa,3961,327182.22,85,Rural
+Sydney,2017,Villa,535,168956.73,21,Urban
+Mumbai,2016,Villa,2463,222189.37,31,Rural
+London,2023,Villa,2747,445646.1,43,Urban
+New York,2016,Apartment,2677,858509.67,94,Rural
+London,2021,House,4510,685246.79,11,Rural
+Mumbai,2018,House,752,959237.6,48,Rural
+Sydney,2016,House,2549,666188.36,83,Suburban
+Sydney,2020,Apartment,2270,360639.5,61,Rural
+New York,2021,House,2169,910412.87,49,Suburban
+Sydney,2018,House,4677,129014.32,81,Rural
+Sydney,2016,House,3466,889062.7,78,Rural
+London,2023,Villa,2898,252997.84,37,Urban
+London,2021,Villa,1988,636296.35,22,Suburban
+New York,2023,House,2816,919955.08,72,Suburban
+Tokyo,2022,House,2397,600502.98,1,Urban
+Tokyo,2020,Apartment,1347,827464.73,37,Urban
+Sydney,2018,House,3505,539957.99,61,Urban
+New York,2017,Villa,4696,308502.46,67,Urban
+Tokyo,2016,Villa,3092,51124.79,64,Urban
+Mumbai,2021,Villa,537,580438.62,30,Suburban
+Mumbai,2023,House,1593,259529.73,21,Urban
+London,2016,Apartment,3891,426218.19,85,Suburban
+Tokyo,2017,Apartment,2942,906400.55,30,Urban
+Sydney,2023,Apartment,1629,785907.99,10,Rural
+Tokyo,2017,Apartment,1119,675344.77,1,Suburban
+London,2015,House,2376,477384.65,59,Suburban
+London,2018,Apartment,3449,785520.05,78,Urban
+New York,2015,Apartment,1348,884765.8,86,Urban
+London,2018,Apartment,2132,498295.07,49,Urban
+Tokyo,2023,Apartment,872,743852.53,67,Rural
+London,2015,House,2312,175455.6,20,Suburban
+New York,2019,House,4247,391722.7,76,Suburban
+London,2015,Villa,4927,252265.01,82,Rural
+London,2023,Villa,2858,364294.42,81,Suburban
+Tokyo,2021,Villa,1913,282703.59,19,Rural
+Mumbai,2021,Apartment,2827,234097.91,36,Rural
+Tokyo,2016,Villa,4231,588220.91,82,Suburban
+Tokyo,2022,Villa,4726,128809.87,9,Suburban
+New York,2016,House,4358,750215.69,35,Rural
+Tokyo,2021,Apartment,712,324143.01,91,Urban
+Sydney,2015,Villa,1728,157170.03,99,Urban
+Tokyo,2023,House,1994,736955.05,17,Urban
+New York,2020,Apartment,904,590961.64,64,Urban
+London,2021,Apartment,1362,63453.61,95,Suburban
+Tokyo,2016,Villa,1924,788772.1,66,Urban
+London,2018,Apartment,4455,318040.04,56,Rural
+Mumbai,2015,Villa,2589,348693.88,93,Suburban
+New York,2022,Apartment,2457,351124.28,45,Suburban
+Sydney,2022,Villa,2980,296664.69,75,Urban
+Tokyo,2015,House,4776,873780.09,26,Suburban
+London,2019,Villa,4382,505989.23,30,Suburban
+New York,2018,Villa,4141,873724.99,84,Suburban
+New York,2021,Apartment,1509,302646.01,37,Urban
+Sydney,2022,Villa,3792,483210.21,4,Rural
+Sydney,2020,Villa,4700,837423.53,10,Urban
+New York,2015,House,4241,981789.13,19,Rural
+New York,2016,House,3359,394676.07,67,Urban
+Mumbai,2020,Apartment,4455,696183.92,70,Suburban
+London,2022,House,4012,370675.89,54,Rural
+Sydney,2018,Apartment,2611,374468.77,88,Suburban
+Tokyo,2023,House,1665,411097.84,39,Rural
+Sydney,2023,Villa,623,165288.28,35,Rural
+Mumbai,2015,House,4985,438822.25,87,Urban
+Tokyo,2023,Villa,3894,279624.32,52,Suburban
+New York,2021,House,516,981304.49,4,Urban
+London,2022,Villa,4574,235367.12,14,Suburban
+Sydney,2022,House,1201,866604.7,44,Rural
+Sydney,2023,Villa,1331,934548.75,15,Suburban
+Sydney,2023,House,2959,496028.91,51,Suburban
+New York,2017,Apartment,2969,848460.47,9,Rural
+Mumbai,2022,Villa,2117,450050.82,71,Rural
+Mumbai,2022,Apartment,3252,326358.82,73,Rural
+London,2020,Villa,4247,748887.52,90,Rural
+London,2021,House,3103,63442.24,65,Urban
+Sydney,2023,Villa,3058,135306.16,27,Rural
+Tokyo,2023,House,4934,558635.74,26,Urban
+London,2017,Villa,4347,790820.98,49,Suburban
+Sydney,2016,House,3153,834689.88,12,Urban
+Mumbai,2015,House,3279,246177.3,16,Suburban
+Sydney,2021,Apartment,4597,669639.1,58,Rural
+New York,2019,Villa,4884,609706.59,15,Rural
+Sydney,2016,Apartment,2090,585534.74,70,Rural
+London,2015,Villa,4078,734054.42,94,Urban
+Tokyo,2020,Villa,3839,673286.21,9,Urban
+London,2020,Villa,680,203425.88,71,Suburban
+Tokyo,2019,Villa,874,985985.54,38,Rural
+Tokyo,2023,Villa,3076,778164.92,31,Rural
+London,2021,House,3909,787373.21,18,Suburban
+Sydney,2021,House,4144,956572.71,44,Suburban
+Sydney,2022,Villa,2288,935079.44,96,Suburban
+Tokyo,2023,Villa,4277,325398.88,80,Rural
+London,2020,House,2868,54479.29,32,Suburban
+Tokyo,2023,Villa,715,118139.19,56,Urban
+Tokyo,2016,Apartment,3517,843472.7,52,Urban
+Sydney,2022,House,1822,851454.89,64,Rural
+New York,2015,Apartment,906,455702.91,45,Suburban
+London,2021,Apartment,2940,920031.17,24,Urban
+Sydney,2017,Apartment,1807,328793.77,95,Urban
+Sydney,2019,Villa,1360,224399.94,93,Rural
+Sydney,2022,Apartment,2399,578779.7,87,Urban
+London,2020,Villa,4636,847296.16,58,Urban
+New York,2022,Apartment,4502,226615.84,48,Urban
+Sydney,2017,House,1506,475267.47,19,Rural
+Sydney,2018,House,3696,316895.05,5,Urban
+New York,2017,Apartment,2637,633998.96,22,Urban
+New York,2017,House,3048,380597.71,39,Urban
+Tokyo,2021,Apartment,4613,230572.56,96,Suburban
+New York,2023,Villa,910,847513.0,10,Rural
+Tokyo,2016,Apartment,1930,276382.07,85,Suburban
+Tokyo,2019,House,1244,327443.18,58,Rural
+London,2023,Villa,1825,789174.79,12,Rural
+London,2015,House,4395,823691.34,55,Urban
+New York,2019,Apartment,3151,441319.35,74,Suburban
+Sydney,2016,Villa,954,640218.96,45,Rural
+New York,2016,Villa,2926,227395.71,60,Rural
+Mumbai,2019,Villa,4881,687035.04,36,Rural
+New York,2019,House,1992,893377.94,62,Rural
+Sydney,2019,Villa,2427,437598.68,4,Suburban
+Tokyo,2022,Apartment,2414,207581.79,40,Suburban
+London,2020,House,509,244895.38,69,Suburban
+London,2023,Apartment,2091,987558.59,36,Urban
+London,2017,Villa,763,839746.68,87,Rural
+New York,2023,Apartment,3184,579700.1,10,Suburban
+New York,2018,House,1422,344965.21,35,Rural

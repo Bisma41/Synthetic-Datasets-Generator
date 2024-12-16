@@ -1,0 +1,501 @@
+Customer ID,Age,Gender,Item Purchased,Purchase Amount ($),Frequency of Purchases,Time of Year
+CUST-1,45,Male,Electronics,100.95,8,Promotion
+CUST-2,65,Female,Electronics,146.04,6,Promotion
+CUST-3,21,Other,Home Appliances,361.38,8,Promotion
+CUST-4,44,Male,Books,742.43,4,Regular
+CUST-5,62,Other,Books,799.39,1,Holiday Season
+CUST-6,48,Other,Clothing,404.02,4,Regular
+CUST-7,20,Other,Toys,168.6,1,Regular
+CUST-8,54,Male,Toys,22.81,10,Holiday Season
+CUST-9,26,Female,Electronics,431.63,7,Holiday Season
+CUST-10,22,Other,Toys,570.55,11,Holiday Season
+CUST-11,51,Male,Books,78.66,11,Promotion
+CUST-12,33,Male,Books,753.31,5,Promotion
+CUST-13,44,Male,Toys,730.7,3,Holiday Season
+CUST-14,31,Female,Electronics,648.82,5,Holiday Season
+CUST-15,61,Female,Electronics,643.49,2,Holiday Season
+CUST-16,35,Other,Books,873.5,8,Holiday Season
+CUST-17,46,Other,Clothing,62.14,5,Promotion
+CUST-18,44,Male,Home Appliances,873.28,10,Promotion
+CUST-19,28,Female,Clothing,620.28,7,Holiday Season
+CUST-20,62,Other,Home Appliances,114.48,5,Regular
+CUST-21,45,Male,Toys,989.68,9,Holiday Season
+CUST-22,22,Female,Home Appliances,687.12,11,Holiday Season
+CUST-23,43,Other,Electronics,286.95,7,Holiday Season
+CUST-24,29,Other,Home Appliances,464.02,1,Regular
+CUST-25,30,Other,Clothing,990.96,5,Promotion
+CUST-26,24,Female,Electronics,732.79,7,Promotion
+CUST-27,58,Other,Home Appliances,765.66,10,Promotion
+CUST-28,34,Other,Toys,779.42,4,Promotion
+CUST-29,39,Other,Books,968.22,9,Holiday Season
+CUST-30,40,Male,Electronics,644.12,8,Regular
+CUST-31,58,Female,Electronics,394.7,10,Holiday Season
+CUST-32,46,Female,Electronics,829.97,2,Regular
+CUST-33,64,Other,Home Appliances,934.02,7,Regular
+CUST-34,25,Female,Electronics,604.25,9,Holiday Season
+CUST-35,53,Female,Electronics,700.3,7,Holiday Season
+CUST-36,45,Male,Toys,148.33,2,Holiday Season
+CUST-37,45,Male,Home Appliances,327.72,5,Regular
+CUST-38,52,Male,Home Appliances,625.13,1,Regular
+CUST-39,37,Male,Clothing,95.97,6,Promotion
+CUST-40,59,Female,Electronics,403.88,3,Holiday Season
+CUST-41,49,Female,Electronics,841.14,3,Regular
+CUST-42,44,Other,Clothing,64.73,4,Holiday Season
+CUST-43,64,Female,Toys,327.49,11,Regular
+CUST-44,60,Other,Clothing,873.23,4,Promotion
+CUST-45,47,Male,Toys,248.15,8,Promotion
+CUST-46,32,Other,Books,289.31,8,Regular
+CUST-47,42,Other,Electronics,234.39,2,Promotion
+CUST-48,32,Male,Clothing,75.69,8,Regular
+CUST-49,20,Other,Electronics,48.47,8,Holiday Season
+CUST-50,45,Other,Toys,255.25,1,Promotion
+CUST-51,35,Male,Home Appliances,906.1,2,Holiday Season
+CUST-52,29,Female,Toys,566.2,10,Regular
+CUST-53,46,Other,Books,30.5,1,Holiday Season
+CUST-54,66,Other,Toys,991.56,6,Regular
+CUST-55,42,Other,Electronics,421.23,4,Holiday Season
+CUST-56,64,Male,Books,555.88,4,Promotion
+CUST-57,24,Other,Electronics,626.22,1,Holiday Season
+CUST-58,44,Female,Electronics,414.47,6,Regular
+CUST-59,65,Male,Clothing,60.32,3,Promotion
+CUST-60,69,Other,Books,669.45,3,Holiday Season
+CUST-61,65,Other,Electronics,480.91,8,Holiday Season
+CUST-62,48,Male,Toys,834.53,7,Holiday Season
+CUST-63,43,Male,Electronics,579.77,4,Holiday Season
+CUST-64,34,Male,Toys,115.22,5,Holiday Season
+CUST-65,25,Female,Home Appliances,554.45,6,Holiday Season
+CUST-66,43,Female,Home Appliances,284.18,3,Promotion
+CUST-67,22,Female,Electronics,837.26,3,Regular
+CUST-68,62,Female,Books,47.45,9,Holiday Season
+CUST-69,38,Male,Home Appliances,183.2,11,Promotion
+CUST-70,18,Male,Electronics,448.74,1,Regular
+CUST-71,23,Male,Home Appliances,318.93,6,Regular
+CUST-72,41,Female,Toys,369.33,4,Regular
+CUST-73,69,Male,Toys,313.43,5,Regular
+CUST-74,40,Female,Electronics,457.63,4,Holiday Season
+CUST-75,40,Male,Clothing,85.76,1,Holiday Season
+CUST-76,37,Female,Electronics,615.61,7,Promotion
+CUST-77,50,Male,Books,409.41,1,Holiday Season
+CUST-78,27,Male,Toys,619.56,11,Holiday Season
+CUST-79,55,Male,Home Appliances,56.56,2,Holiday Season
+CUST-80,65,Other,Clothing,207.64,1,Holiday Season
+CUST-81,24,Female,Books,408.77,8,Regular
+CUST-82,49,Female,Electronics,122.35,2,Regular
+CUST-83,43,Female,Books,959.95,10,Holiday Season
+CUST-84,49,Female,Home Appliances,781.94,6,Regular
+CUST-85,33,Female,Books,313.36,8,Regular
+CUST-86,57,Other,Home Appliances,136.07,10,Regular
+CUST-87,47,Male,Electronics,518.62,6,Promotion
+CUST-88,37,Other,Toys,739.79,4,Promotion
+CUST-89,42,Male,Home Appliances,358.3,7,Regular
+CUST-90,28,Female,Toys,706.5,6,Regular
+CUST-91,40,Other,Home Appliances,535.07,10,Regular
+CUST-92,23,Other,Clothing,975.17,9,Promotion
+CUST-93,46,Male,Electronics,908.39,2,Promotion
+CUST-94,36,Other,Clothing,650.27,2,Holiday Season
+CUST-95,29,Female,Toys,243.5,2,Regular
+CUST-96,36,Female,Electronics,414.59,1,Promotion
+CUST-97,18,Female,Home Appliances,551.77,2,Regular
+CUST-98,60,Male,Clothing,925.5,5,Holiday Season
+CUST-99,60,Male,Electronics,360.7,1,Regular
+CUST-100,30,Other,Books,441.19,5,Regular
+CUST-101,52,Male,Clothing,900.12,7,Promotion
+CUST-102,24,Other,Clothing,197.37,6,Regular
+CUST-103,35,Other,Books,526.6,6,Regular
+CUST-104,61,Female,Electronics,391.88,6,Holiday Season
+CUST-105,68,Male,Toys,659.35,6,Holiday Season
+CUST-106,39,Other,Home Appliances,864.99,3,Promotion
+CUST-107,59,Male,Books,495.11,2,Promotion
+CUST-108,51,Other,Home Appliances,522.04,9,Promotion
+CUST-109,23,Other,Electronics,432.4,2,Promotion
+CUST-110,42,Male,Books,731.15,9,Holiday Season
+CUST-111,54,Other,Electronics,757.21,11,Holiday Season
+CUST-112,60,Male,Books,120.05,4,Promotion
+CUST-113,42,Female,Home Appliances,895.66,8,Regular
+CUST-114,30,Other,Books,629.33,3,Regular
+CUST-115,67,Female,Books,778.7,1,Promotion
+CUST-116,59,Female,Books,952.5,8,Holiday Season
+CUST-117,57,Other,Clothing,178.72,2,Promotion
+CUST-118,32,Male,Electronics,986.82,8,Regular
+CUST-119,62,Male,Toys,904.31,7,Promotion
+CUST-120,62,Other,Electronics,839.15,4,Holiday Season
+CUST-121,47,Other,Clothing,580.35,6,Holiday Season
+CUST-122,26,Other,Books,585.23,11,Promotion
+CUST-123,18,Other,Toys,653.71,10,Regular
+CUST-124,56,Other,Toys,601.03,6,Regular
+CUST-125,30,Male,Home Appliances,331.49,10,Holiday Season
+CUST-126,33,Other,Electronics,790.49,2,Promotion
+CUST-127,68,Female,Toys,663.34,10,Holiday Season
+CUST-128,35,Other,Books,906.74,5,Regular
+CUST-129,31,Male,Electronics,695.1,3,Promotion
+CUST-130,62,Female,Clothing,858.33,4,Promotion
+CUST-131,47,Male,Home Appliances,299.82,8,Promotion
+CUST-132,34,Other,Books,657.2,1,Holiday Season
+CUST-133,20,Female,Books,440.0,1,Promotion
+CUST-134,51,Other,Books,752.55,5,Holiday Season
+CUST-135,36,Female,Books,230.26,11,Holiday Season
+CUST-136,32,Female,Electronics,378.99,10,Promotion
+CUST-137,18,Male,Clothing,614.84,2,Regular
+CUST-138,63,Female,Electronics,402.96,2,Holiday Season
+CUST-139,28,Female,Clothing,310.17,9,Promotion
+CUST-140,58,Female,Toys,388.26,11,Holiday Season
+CUST-141,55,Female,Books,629.47,9,Regular
+CUST-142,62,Other,Electronics,733.17,11,Regular
+CUST-143,19,Other,Clothing,383.11,10,Promotion
+CUST-144,47,Female,Home Appliances,328.48,9,Holiday Season
+CUST-145,27,Male,Clothing,916.62,2,Promotion
+CUST-146,19,Female,Toys,354.73,9,Regular
+CUST-147,66,Other,Toys,721.84,9,Regular
+CUST-148,50,Female,Clothing,75.62,7,Holiday Season
+CUST-149,23,Male,Books,136.74,4,Promotion
+CUST-150,41,Male,Books,751.11,3,Regular
+CUST-151,32,Male,Books,453.08,9,Regular
+CUST-152,65,Other,Toys,262.34,3,Regular
+CUST-153,41,Male,Books,75.73,6,Regular
+CUST-154,21,Male,Electronics,747.29,10,Promotion
+CUST-155,52,Male,Toys,60.68,3,Promotion
+CUST-156,29,Female,Electronics,924.14,1,Regular
+CUST-157,18,Other,Electronics,331.44,11,Holiday Season
+CUST-158,69,Other,Electronics,658.45,10,Promotion
+CUST-159,25,Female,Home Appliances,343.54,5,Promotion
+CUST-160,53,Male,Books,473.32,9,Holiday Season
+CUST-161,38,Female,Toys,158.5,6,Regular
+CUST-162,36,Male,Home Appliances,580.82,3,Promotion
+CUST-163,52,Male,Books,737.29,9,Regular
+CUST-164,51,Other,Electronics,372.6,5,Holiday Season
+CUST-165,54,Female,Toys,502.39,2,Holiday Season
+CUST-166,34,Other,Home Appliances,106.18,11,Regular
+CUST-167,22,Other,Home Appliances,640.24,8,Regular
+CUST-168,36,Other,Electronics,888.16,5,Regular
+CUST-169,66,Other,Books,952.68,5,Promotion
+CUST-170,39,Other,Electronics,610.71,9,Promotion
+CUST-171,35,Female,Books,475.04,8,Regular
+CUST-172,47,Male,Books,73.66,4,Promotion
+CUST-173,58,Female,Home Appliances,351.3,10,Regular
+CUST-174,20,Male,Home Appliances,629.67,9,Promotion
+CUST-175,24,Other,Home Appliances,12.94,7,Promotion
+CUST-176,45,Other,Toys,382.46,3,Holiday Season
+CUST-177,52,Male,Electronics,704.98,1,Regular
+CUST-178,45,Male,Toys,847.55,5,Promotion
+CUST-179,52,Other,Toys,134.92,3,Promotion
+CUST-180,38,Other,Books,976.56,11,Regular
+CUST-181,41,Male,Electronics,753.36,8,Regular
+CUST-182,22,Male,Books,59.11,9,Holiday Season
+CUST-183,19,Other,Clothing,986.41,7,Regular
+CUST-184,25,Female,Home Appliances,469.2,4,Holiday Season
+CUST-185,27,Female,Clothing,121.25,9,Promotion
+CUST-186,42,Female,Toys,948.1,5,Promotion
+CUST-187,45,Male,Home Appliances,97.25,11,Promotion
+CUST-188,26,Female,Toys,472.17,1,Promotion
+CUST-189,62,Female,Clothing,987.13,8,Holiday Season
+CUST-190,29,Other,Electronics,513.39,3,Promotion
+CUST-191,23,Male,Clothing,721.5,4,Promotion
+CUST-192,57,Other,Toys,266.5,5,Regular
+CUST-193,42,Male,Toys,308.7,8,Holiday Season
+CUST-194,39,Other,Toys,198.67,4,Promotion
+CUST-195,20,Other,Home Appliances,297.3,3,Regular
+CUST-196,27,Male,Toys,338.72,10,Regular
+CUST-197,42,Female,Clothing,822.97,1,Holiday Season
+CUST-198,30,Male,Clothing,889.73,6,Regular
+CUST-199,63,Other,Books,329.92,4,Promotion
+CUST-200,56,Other,Books,799.21,2,Regular
+CUST-201,63,Female,Toys,333.5,6,Regular
+CUST-202,58,Male,Books,590.42,5,Regular
+CUST-203,64,Female,Clothing,46.9,3,Promotion
+CUST-204,48,Other,Books,592.59,11,Regular
+CUST-205,46,Other,Clothing,586.27,5,Regular
+CUST-206,28,Male,Electronics,710.08,4,Regular
+CUST-207,56,Female,Electronics,641.23,11,Promotion
+CUST-208,18,Male,Clothing,318.1,8,Promotion
+CUST-209,60,Male,Clothing,468.18,1,Promotion
+CUST-210,36,Female,Electronics,993.12,11,Regular
+CUST-211,19,Male,Toys,228.88,8,Regular
+CUST-212,26,Female,Toys,164.08,3,Holiday Season
+CUST-213,59,Female,Electronics,440.14,5,Regular
+CUST-214,27,Other,Electronics,561.56,8,Promotion
+CUST-215,32,Other,Books,291.03,6,Holiday Season
+CUST-216,47,Male,Books,969.5,7,Regular
+CUST-217,40,Male,Toys,830.34,8,Regular
+CUST-218,18,Other,Home Appliances,541.76,7,Regular
+CUST-219,28,Other,Electronics,526.41,10,Promotion
+CUST-220,57,Female,Clothing,267.45,3,Holiday Season
+CUST-221,40,Male,Home Appliances,343.37,8,Holiday Season
+CUST-222,49,Other,Home Appliances,417.84,4,Promotion
+CUST-223,60,Female,Books,206.71,3,Promotion
+CUST-224,52,Male,Toys,769.86,8,Regular
+CUST-225,41,Male,Clothing,823.99,6,Holiday Season
+CUST-226,34,Other,Clothing,875.21,6,Regular
+CUST-227,63,Other,Clothing,541.41,3,Promotion
+CUST-228,47,Male,Electronics,544.51,3,Regular
+CUST-229,51,Male,Electronics,842.87,11,Holiday Season
+CUST-230,54,Other,Clothing,699.39,3,Regular
+CUST-231,39,Male,Clothing,672.78,6,Regular
+CUST-232,53,Other,Clothing,423.73,4,Promotion
+CUST-233,36,Male,Clothing,827.41,9,Regular
+CUST-234,65,Female,Clothing,988.8,1,Regular
+CUST-235,35,Female,Toys,195.8,4,Holiday Season
+CUST-236,61,Male,Home Appliances,369.97,2,Promotion
+CUST-237,27,Female,Toys,494.98,9,Regular
+CUST-238,35,Female,Toys,900.54,10,Regular
+CUST-239,25,Other,Clothing,620.38,11,Promotion
+CUST-240,65,Female,Toys,624.49,11,Regular
+CUST-241,63,Other,Toys,491.94,8,Promotion
+CUST-242,65,Male,Home Appliances,741.83,11,Holiday Season
+CUST-243,26,Male,Electronics,825.68,11,Regular
+CUST-244,64,Female,Electronics,755.31,7,Regular
+CUST-245,39,Male,Electronics,651.63,2,Promotion
+CUST-246,69,Male,Books,665.14,6,Promotion
+CUST-247,48,Other,Books,46.84,1,Promotion
+CUST-248,67,Male,Electronics,921.22,11,Promotion
+CUST-249,41,Male,Home Appliances,863.01,1,Promotion
+CUST-250,33,Male,Books,648.86,10,Regular
+CUST-251,61,Other,Books,820.57,3,Promotion
+CUST-252,51,Male,Electronics,559.02,9,Regular
+CUST-253,19,Female,Clothing,622.39,4,Promotion
+CUST-254,37,Other,Clothing,82.65,2,Promotion
+CUST-255,61,Male,Toys,137.67,8,Holiday Season
+CUST-256,31,Female,Toys,326.61,1,Holiday Season
+CUST-257,24,Female,Electronics,232.53,5,Promotion
+CUST-258,23,Female,Electronics,585.06,3,Regular
+CUST-259,48,Other,Clothing,871.24,7,Regular
+CUST-260,38,Female,Books,281.64,2,Regular
+CUST-261,26,Male,Clothing,31.4,5,Promotion
+CUST-262,57,Male,Electronics,304.06,5,Holiday Season
+CUST-263,44,Male,Electronics,157.01,4,Holiday Season
+CUST-264,30,Male,Books,512.74,4,Holiday Season
+CUST-265,30,Female,Toys,831.44,3,Promotion
+CUST-266,32,Male,Toys,319.68,7,Regular
+CUST-267,57,Male,Books,95.78,5,Promotion
+CUST-268,52,Male,Clothing,425.03,1,Regular
+CUST-269,43,Female,Books,829.46,4,Regular
+CUST-270,32,Other,Electronics,145.62,1,Promotion
+CUST-271,58,Other,Toys,896.3,1,Promotion
+CUST-272,26,Other,Books,44.42,10,Regular
+CUST-273,49,Female,Electronics,959.63,10,Regular
+CUST-274,63,Other,Toys,427.13,2,Promotion
+CUST-275,28,Other,Home Appliances,893.18,1,Promotion
+CUST-276,30,Female,Clothing,509.28,9,Promotion
+CUST-277,58,Other,Toys,185.32,11,Holiday Season
+CUST-278,58,Male,Clothing,186.01,1,Regular
+CUST-279,58,Male,Toys,635.72,6,Regular
+CUST-280,36,Female,Clothing,335.16,3,Holiday Season
+CUST-281,41,Other,Electronics,414.58,9,Holiday Season
+CUST-282,63,Other,Home Appliances,337.98,5,Holiday Season
+CUST-283,45,Male,Books,711.19,8,Holiday Season
+CUST-284,19,Female,Clothing,718.8,10,Holiday Season
+CUST-285,64,Other,Books,468.87,4,Regular
+CUST-286,60,Other,Electronics,180.17,9,Regular
+CUST-287,62,Other,Home Appliances,100.66,10,Holiday Season
+CUST-288,42,Female,Books,712.63,5,Holiday Season
+CUST-289,49,Male,Electronics,998.53,9,Promotion
+CUST-290,41,Other,Toys,644.36,2,Promotion
+CUST-291,26,Male,Electronics,27.64,2,Regular
+CUST-292,20,Female,Clothing,587.34,10,Promotion
+CUST-293,57,Male,Books,554.26,11,Promotion
+CUST-294,55,Female,Home Appliances,994.14,2,Holiday Season
+CUST-295,19,Male,Books,664.6,11,Holiday Season
+CUST-296,56,Male,Toys,847.39,10,Promotion
+CUST-297,49,Other,Books,404.74,1,Promotion
+CUST-298,57,Other,Clothing,717.01,7,Holiday Season
+CUST-299,57,Female,Toys,893.36,7,Regular
+CUST-300,37,Male,Electronics,290.41,10,Promotion
+CUST-301,18,Female,Toys,278.57,7,Promotion
+CUST-302,67,Male,Clothing,400.19,7,Promotion
+CUST-303,59,Female,Toys,722.35,1,Regular
+CUST-304,64,Other,Clothing,305.85,7,Regular
+CUST-305,37,Other,Clothing,649.09,1,Holiday Season
+CUST-306,21,Male,Home Appliances,61.47,1,Promotion
+CUST-307,65,Other,Toys,443.32,10,Regular
+CUST-308,66,Female,Home Appliances,265.07,10,Holiday Season
+CUST-309,39,Female,Home Appliances,410.59,5,Regular
+CUST-310,21,Male,Electronics,322.37,10,Holiday Season
+CUST-311,61,Female,Electronics,322.79,4,Promotion
+CUST-312,33,Other,Electronics,473.63,1,Holiday Season
+CUST-313,40,Other,Electronics,535.01,11,Promotion
+CUST-314,38,Male,Toys,661.32,10,Promotion
+CUST-315,47,Female,Electronics,15.61,6,Holiday Season
+CUST-316,29,Other,Home Appliances,336.43,9,Regular
+CUST-317,67,Female,Clothing,183.22,2,Holiday Season
+CUST-318,45,Male,Books,719.3,7,Promotion
+CUST-319,43,Other,Toys,845.93,7,Regular
+CUST-320,46,Other,Books,897.43,4,Holiday Season
+CUST-321,66,Female,Toys,566.04,5,Promotion
+CUST-322,45,Male,Home Appliances,213.3,3,Regular
+CUST-323,63,Male,Clothing,151.52,9,Holiday Season
+CUST-324,42,Other,Clothing,902.56,6,Promotion
+CUST-325,69,Male,Electronics,781.6,10,Holiday Season
+CUST-326,40,Female,Home Appliances,949.6,1,Regular
+CUST-327,32,Female,Toys,711.0,5,Promotion
+CUST-328,50,Other,Clothing,794.43,10,Regular
+CUST-329,38,Female,Electronics,814.36,4,Holiday Season
+CUST-330,46,Other,Clothing,553.33,6,Holiday Season
+CUST-331,25,Female,Toys,461.7,1,Holiday Season
+CUST-332,56,Male,Home Appliances,697.17,11,Promotion
+CUST-333,42,Other,Home Appliances,997.51,6,Holiday Season
+CUST-334,39,Male,Books,321.1,4,Promotion
+CUST-335,34,Female,Clothing,130.29,3,Regular
+CUST-336,41,Male,Books,131.84,8,Holiday Season
+CUST-337,59,Female,Home Appliances,338.07,4,Promotion
+CUST-338,62,Male,Toys,547.97,1,Promotion
+CUST-339,63,Other,Toys,743.85,7,Regular
+CUST-340,28,Male,Electronics,883.29,7,Promotion
+CUST-341,44,Other,Electronics,996.97,4,Regular
+CUST-342,37,Female,Electronics,307.61,4,Promotion
+CUST-343,67,Other,Clothing,983.05,8,Regular
+CUST-344,19,Female,Home Appliances,452.81,6,Holiday Season
+CUST-345,66,Other,Books,160.62,2,Promotion
+CUST-346,30,Other,Electronics,592.31,1,Holiday Season
+CUST-347,42,Other,Books,332.51,6,Promotion
+CUST-348,56,Male,Home Appliances,431.14,7,Promotion
+CUST-349,32,Male,Books,60.27,1,Promotion
+CUST-350,26,Female,Home Appliances,939.21,5,Regular
+CUST-351,48,Female,Clothing,474.97,2,Promotion
+CUST-352,46,Male,Books,705.09,11,Regular
+CUST-353,26,Other,Clothing,444.56,1,Promotion
+CUST-354,23,Female,Books,56.74,7,Holiday Season
+CUST-355,27,Male,Home Appliances,393.11,2,Promotion
+CUST-356,41,Male,Home Appliances,78.69,10,Holiday Season
+CUST-357,59,Male,Clothing,94.53,6,Holiday Season
+CUST-358,67,Male,Toys,316.19,10,Promotion
+CUST-359,48,Other,Toys,499.82,10,Regular
+CUST-360,62,Female,Clothing,770.64,2,Regular
+CUST-361,58,Other,Clothing,471.91,11,Regular
+CUST-362,44,Other,Books,352.83,4,Holiday Season
+CUST-363,38,Male,Clothing,291.79,4,Regular
+CUST-364,68,Other,Clothing,457.57,5,Regular
+CUST-365,21,Other,Books,186.18,10,Regular
+CUST-366,21,Other,Home Appliances,413.14,10,Holiday Season
+CUST-367,34,Other,Clothing,273.23,4,Holiday Season
+CUST-368,49,Female,Books,743.06,9,Promotion
+CUST-369,69,Female,Toys,801.65,4,Holiday Season
+CUST-370,64,Male,Home Appliances,517.28,10,Regular
+CUST-371,35,Other,Toys,183.35,1,Promotion
+CUST-372,35,Male,Books,280.79,7,Holiday Season
+CUST-373,55,Female,Home Appliances,990.88,8,Regular
+CUST-374,19,Other,Toys,951.57,4,Regular
+CUST-375,24,Female,Toys,92.2,11,Regular
+CUST-376,43,Other,Home Appliances,372.27,6,Regular
+CUST-377,62,Male,Home Appliances,160.25,8,Regular
+CUST-378,35,Female,Toys,580.95,9,Regular
+CUST-379,61,Other,Toys,33.79,7,Regular
+CUST-380,47,Female,Electronics,609.68,1,Promotion
+CUST-381,26,Female,Books,208.94,10,Promotion
+CUST-382,56,Other,Electronics,267.14,2,Promotion
+CUST-383,27,Male,Electronics,851.96,1,Holiday Season
+CUST-384,24,Female,Electronics,83.52,10,Regular
+CUST-385,29,Male,Home Appliances,111.07,9,Regular
+CUST-386,28,Male,Books,878.62,11,Holiday Season
+CUST-387,56,Male,Electronics,631.67,11,Holiday Season
+CUST-388,46,Male,Electronics,967.06,10,Holiday Season
+CUST-389,66,Female,Toys,730.94,3,Holiday Season
+CUST-390,54,Female,Electronics,611.06,9,Holiday Season
+CUST-391,44,Other,Home Appliances,348.87,4,Holiday Season
+CUST-392,31,Male,Clothing,266.09,9,Promotion
+CUST-393,69,Male,Clothing,973.27,9,Promotion
+CUST-394,68,Other,Clothing,602.2,6,Regular
+CUST-395,26,Female,Electronics,933.69,1,Promotion
+CUST-396,41,Female,Clothing,604.55,4,Regular
+CUST-397,18,Other,Home Appliances,552.34,6,Regular
+CUST-398,68,Other,Books,186.61,6,Promotion
+CUST-399,65,Female,Home Appliances,788.26,10,Regular
+CUST-400,57,Female,Home Appliances,482.04,8,Holiday Season
+CUST-401,67,Other,Electronics,510.86,4,Promotion
+CUST-402,64,Other,Books,561.63,7,Promotion
+CUST-403,25,Other,Toys,621.62,8,Promotion
+CUST-404,43,Other,Books,728.44,4,Holiday Season
+CUST-405,55,Other,Electronics,517.8,5,Holiday Season
+CUST-406,46,Other,Books,953.33,9,Holiday Season
+CUST-407,55,Male,Toys,610.77,9,Promotion
+CUST-408,69,Female,Clothing,321.15,2,Promotion
+CUST-409,50,Female,Clothing,404.54,11,Regular
+CUST-410,28,Male,Electronics,444.59,10,Regular
+CUST-411,62,Male,Electronics,408.68,1,Regular
+CUST-412,48,Female,Books,400.32,4,Holiday Season
+CUST-413,46,Other,Home Appliances,978.93,2,Holiday Season
+CUST-414,29,Male,Clothing,911.33,5,Regular
+CUST-415,28,Male,Books,131.86,3,Regular
+CUST-416,66,Other,Electronics,449.27,5,Holiday Season
+CUST-417,60,Female,Home Appliances,527.46,4,Promotion
+CUST-418,33,Other,Clothing,413.31,5,Promotion
+CUST-419,46,Female,Books,225.79,11,Regular
+CUST-420,52,Male,Electronics,937.08,11,Holiday Season
+CUST-421,23,Male,Books,544.35,3,Promotion
+CUST-422,41,Other,Home Appliances,833.39,9,Regular
+CUST-423,33,Female,Clothing,577.1,4,Holiday Season
+CUST-424,28,Other,Clothing,839.78,8,Regular
+CUST-425,33,Other,Toys,415.08,11,Promotion
+CUST-426,50,Other,Electronics,89.49,11,Holiday Season
+CUST-427,35,Other,Home Appliances,505.08,7,Regular
+CUST-428,38,Other,Books,360.39,10,Holiday Season
+CUST-429,44,Female,Books,16.44,5,Regular
+CUST-430,38,Other,Books,594.12,4,Holiday Season
+CUST-431,41,Male,Clothing,618.85,10,Promotion
+CUST-432,18,Female,Electronics,962.34,8,Regular
+CUST-433,41,Female,Home Appliances,219.57,2,Promotion
+CUST-434,42,Male,Home Appliances,914.85,9,Regular
+CUST-435,39,Male,Home Appliances,952.51,10,Regular
+CUST-436,63,Male,Home Appliances,227.03,1,Holiday Season
+CUST-437,56,Male,Books,669.25,4,Promotion
+CUST-438,32,Female,Toys,844.12,3,Promotion
+CUST-439,56,Male,Home Appliances,294.25,9,Regular
+CUST-440,51,Other,Toys,532.23,8,Regular
+CUST-441,27,Female,Home Appliances,772.62,11,Promotion
+CUST-442,36,Other,Toys,70.04,4,Regular
+CUST-443,21,Female,Books,960.43,9,Holiday Season
+CUST-444,33,Male,Clothing,189.32,6,Holiday Season
+CUST-445,48,Other,Electronics,421.04,6,Promotion
+CUST-446,52,Female,Toys,151.01,3,Regular
+CUST-447,44,Other,Clothing,554.41,7,Holiday Season
+CUST-448,47,Female,Clothing,717.91,10,Holiday Season
+CUST-449,31,Male,Electronics,584.35,2,Promotion
+CUST-450,33,Male,Clothing,735.06,2,Promotion
+CUST-451,28,Female,Electronics,941.12,11,Promotion
+CUST-452,67,Male,Clothing,438.93,9,Holiday Season
+CUST-453,56,Female,Clothing,702.3,8,Regular
+CUST-454,20,Male,Books,412.18,3,Holiday Season
+CUST-455,57,Other,Home Appliances,56.22,8,Holiday Season
+CUST-456,46,Male,Electronics,312.37,8,Holiday Season
+CUST-457,59,Male,Electronics,609.9,7,Holiday Season
+CUST-458,23,Male,Home Appliances,271.54,3,Regular
+CUST-459,47,Female,Electronics,387.52,9,Regular
+CUST-460,24,Other,Toys,562.4,5,Promotion
+CUST-461,20,Male,Electronics,748.34,5,Holiday Season
+CUST-462,54,Male,Books,262.83,7,Promotion
+CUST-463,38,Other,Toys,483.17,4,Regular
+CUST-464,20,Male,Home Appliances,47.36,6,Promotion
+CUST-465,51,Male,Clothing,173.51,1,Regular
+CUST-466,31,Other,Clothing,177.44,5,Regular
+CUST-467,61,Female,Clothing,923.16,8,Holiday Season
+CUST-468,58,Male,Toys,58.2,5,Promotion
+CUST-469,63,Female,Home Appliances,107.06,11,Promotion
+CUST-470,44,Male,Books,605.26,1,Regular
+CUST-471,19,Male,Home Appliances,690.4,8,Regular
+CUST-472,53,Male,Home Appliances,585.4,6,Holiday Season
+CUST-473,50,Male,Home Appliances,51.59,9,Regular
+CUST-474,40,Other,Toys,733.34,3,Holiday Season
+CUST-475,57,Female,Clothing,925.22,6,Promotion
+CUST-476,68,Female,Toys,548.18,6,Promotion
+CUST-477,50,Male,Home Appliances,196.42,11,Holiday Season
+CUST-478,45,Male,Home Appliances,322.39,5,Promotion
+CUST-479,18,Male,Books,933.79,3,Regular
+CUST-480,45,Other,Clothing,370.66,5,Holiday Season
+CUST-481,68,Other,Home Appliances,705.9,6,Promotion
+CUST-482,32,Other,Electronics,555.09,5,Regular
+CUST-483,60,Male,Books,294.04,7,Holiday Season
+CUST-484,33,Other,Clothing,560.47,3,Holiday Season
+CUST-485,24,Female,Clothing,804.84,5,Regular
+CUST-486,18,Female,Toys,537.8,8,Promotion
+CUST-487,25,Other,Toys,959.59,8,Holiday Season
+CUST-488,37,Other,Home Appliances,59.87,6,Holiday Season
+CUST-489,50,Male,Books,200.21,6,Holiday Season
+CUST-490,21,Female,Books,251.37,10,Promotion
+CUST-491,20,Female,Books,193.26,1,Regular
+CUST-492,65,Other,Clothing,432.76,6,Promotion
+CUST-493,32,Other,Clothing,743.72,6,Regular
+CUST-494,59,Female,Electronics,884.45,9,Regular
+CUST-495,47,Male,Home Appliances,689.91,9,Promotion
+CUST-496,48,Female,Electronics,400.62,2,Holiday Season
+CUST-497,24,Female,Clothing,190.98,3,Holiday Season
+CUST-498,65,Male,Clothing,386.61,4,Holiday Season
+CUST-499,28,Male,Home Appliances,723.17,3,Promotion
+CUST-500,59,Other,Clothing,688.78,5,Regular
