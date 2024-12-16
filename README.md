@@ -1,5 +1,4 @@
-# Synthetic-Datasets-Generator
-
+# Synthetic Datasets Generator
 
 This repository contains Python scripts to generate 10 diverse synthetic datasets, each designed for various machine learning and data analysis tasks. These datasets can be directly uploaded to Kaggle for public use, competitions, or personal projects.
 
@@ -44,8 +43,8 @@ This repository contains Python scripts to generate 10 diverse synthetic dataset
    - Use Case: IoT anomaly detection, smart home modeling.
 
 10. **Social Media User Engagement**  
-   - Engagement data for 100 social media posts, including likes, comments, and shares.  
-   - Use Case: Social media trend analysis, engagement prediction.
+    - Engagement data for 100 social media posts, including likes, comments, and shares.  
+    - Use Case: Social media trend analysis, engagement prediction.
 
 ---
 
@@ -66,3 +65,33 @@ This repository contains Python scripts to generate 10 diverse synthetic dataset
 │   ├── social_media_engagement.csv
 ├── dataset_generator.py
 ├── README.md
+```
+
+- **datasets/**: Contains the generated CSV files for all 10 datasets.
+- **dataset_generator.py**: Python script to generate the datasets.
+- **README.md**: Documentation for the repository.
+
+---
+
+## **How to Use**
+
+### Clone the repository:
+
+```bash
+git clone https://github.com/your-username/synthetic-datasets-generator.git
+cd synthetic-datasets-generator
+```
+
+### Install the required dependencies:
+
+```bash
+pip install pandas numpy faker
+```
+
+### Run the dataset generator script:
+
+```bash
+python dataset_generator.py
+```
+
+### Find the generated CSV files in the `datasets/` directory.
