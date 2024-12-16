@@ -1,0 +1,120 @@
+import pandas as pd
+import numpy as np
+import random
+from faker import Faker
+
+faker = Faker()
+
+# 1. Housing Prices Dataset
+np.random.seed(42)
+houses = pd.DataFrame({
+    "House_ID": range(1, 101),
+    "Location": np.random.choice(["Urban", "Suburban", "Rural"], size=100),
+    "Size_in_sq_ft": np.random.randint(800, 3500, size=100),
+    "Price_in_USD": np.random.randint(100000, 1000000, size=100),
+    "Year_Built": np.random.randint(1950, 2024, size=100)
+})
+houses.to_csv("housing_prices.csv", index=False)
+
+# 2. E-commerce Sales Dataset
+np.random.seed(43)
+sales = pd.DataFrame({
+    "Order_ID": range(1, 101),
+    "Product": np.random.choice(["Laptop", "Smartphone", "Tablet", "Headphones"], size=100),
+    "Category": np.random.choice(["Electronics", "Accessories"], size=100),
+    "Quantity": np.random.randint(1, 10, size=100),
+    "Price_per_Unit": np.random.randint(50, 2000, size=100),
+})
+sales["Total_Sale"] = sales["Quantity"] * sales["Price_per_Unit"]
+sales.to_csv("ecommerce_sales.csv", index=False)
+
+# 3. Fitness Tracking Data
+np.random.seed(44)
+fitness = pd.DataFrame({
+    "User_ID": range(1, 101),
+    "Steps": np.random.randint(2000, 20000, size=100),
+    "Calories_Burned": np.random.randint(50, 800, size=100),
+    "Heart_Rate": np.random.randint(60, 180, size=100),
+    "Workout_Type": np.random.choice(["Running", "Cycling", "Yoga", "Strength"], size=100)
+})
+fitness.to_csv("fitness_tracking.csv", index=False)
+
+# 4. Weather Patterns Dataset
+np.random.seed(45)
+weather = pd.DataFrame({
+    "City": [faker.city() for _ in range(100)],
+    "Date": pd.date_range(start="2024-01-01", periods=100).tolist(),
+    "Temperature_C": np.random.randint(-10, 40, size=100),
+    "Humidity_%": np.random.randint(10, 100, size=100),
+    "Rainfall_mm": np.random.randint(0, 200, size=100)
+})
+weather.to_csv("weather_patterns.csv", index=False)
+
+# 5. Stock Market Data
+np.random.seed(46)
+stocks = pd.DataFrame({
+    "Stock_ID": range(1, 101),
+    "Company": [faker.company() for _ in range(100)],
+    "Date": pd.date_range(start="2024-01-01", periods=100).tolist(),
+    "Open_Price": np.round(np.random.uniform(50, 1500, size=100), 2),
+    "Close_Price": np.round(np.random.uniform(50, 1500, size=100), 2),
+    "Volume": np.random.randint(1000, 1000000, size=100)
+})
+stocks.to_csv("stock_market.csv", index=False)
+
+# 6. Movie Ratings and Reviews
+np.random.seed(47)
+movies = pd.DataFrame({
+    "Movie_ID": range(1, 101),
+    "Title": [faker.sentence(nb_words=3) for _ in range(100)],
+    "Genre": np.random.choice(["Action", "Comedy", "Drama", "Horror", "Sci-Fi"], size=100),
+    "Rating": np.round(np.random.uniform(1, 5, size=100), 1),
+    "Release_Year": np.random.randint(1980, 2024, size=100)
+})
+movies.to_csv("movie_ratings.csv", index=False)
+
+# 7. Retail Store Inventory
+np.random.seed(48)
+inventory = pd.DataFrame({
+    "Product_ID": range(1, 101),
+    "Product_Name": [faker.word() for _ in range(100)],
+    "Category": np.random.choice(["Clothing", "Electronics", "Home & Kitchen"], size=100),
+    "Stock_Level": np.random.randint(0, 500, size=100),
+    "Restock_Date": [faker.date_between(start_date="today", end_date="+30d") for _ in range(100)]
+})
+inventory.to_csv("retail_inventory.csv", index=False)
+
+# 8. Health and Nutrition Trends
+np.random.seed(49)
+health = pd.DataFrame({
+    "Individual_ID": range(1, 101),
+    "Daily_Calories": np.random.randint(1500, 3500, size=100),
+    "Protein_g": np.random.randint(50, 200, size=100),
+    "Carbs_g": np.random.randint(100, 500, size=100),
+    "Fat_g": np.random.randint(20, 100, size=100),
+    "Meal_Type": np.random.choice(["Breakfast", "Lunch", "Dinner", "Snacks"], size=100)
+})
+health.to_csv("health_nutrition.csv", index=False)
+
+# 9. IoT Smart Home Sensor Data
+np.random.seed(50)
+iot = pd.DataFrame({
+    "Sensor_ID": range(1, 101),
+    "Room": np.random.choice(["Living Room", "Bedroom", "Kitchen", "Bathroom"], size=100),
+    "Temperature_C": np.random.uniform(15, 30, size=100),
+    "Humidity_%": np.random.uniform(20, 80, size=100),
+    "Appliance_Status": np.random.choice(["ON", "OFF"], size=100)
+})
+iot.to_csv("iot_smart_home.csv", index=False)
+
+# 10. Social Media User Engagement
+np.random.seed(51)
+social_media = pd.DataFrame({
+    "Post_ID": range(1, 101),
+    "User_ID": np.random.randint(1, 50, size=100),
+    "Likes": np.random.randint(0, 1000, size=100),
+    "Comments": np.random.randint(0, 500, size=100),
+    "Shares": np.random.randint(0, 100, size=100),
+    "Post_Type": np.random.choice(["Image", "Text", "Video"], size=100)
+})
+social_media.to_csv("social_media_engagement.csv", index=False)
